@@ -1,0 +1,90 @@
+﻿State,Code,Location,"Square
+Feet","Year
+Opened",Description of Operation
+Arizona,DPX1,"500 S. 48th Street, Phoenix, Arizona, USA, 85034",-,"May
+2015",Delivery Station for Phoenix West Valley Co-located in UAZ1
+Arizona,DPX3,"550 E. Elliot Rd, Chandler . Arizona, USA, 85225",91.200,"May
+2017",Delivery Station for Phoenix East Valley
+California,DSF1,"990 Beecher St, San Leandro, California, USA, 94577","42,400","September
+2013",Delivery Station for Oakland
+California,DSF2,"Candlestick Park Delivery Station, San Francisco, California. USA, 94124",-,"September
+2013",Delivery Station for Bay Area
+California,DSF3,"1700 Montague Expy, San Jose, California, USA, 95131","25,800",2013,Delivery Station for San Jose
+California,DSFS,"250 Utah Avenue, South San Francisco, California, USA, 94080-6801","111,000","June
+2016",Delivery Station for South San Francisco
+California,DSF6,"6015 Giant Road, Richmond, California, USA, 94080-6801","224,200",Fall 2016,Delivery Station for Northeast Bay Area
+California,DSD1,"16550 Via Esprillo, San Diego, California, USA, 92127","165,600",2013,"Delivery Station for San Diego
+Relocated to this location in March 2017"
+California,DSD2,"2777 Loker Ave W, Carlsbad, California, USA, 92010-6517","39,700",2013,Delivery Station for San Diego
+California,DLA1,"900 W Florence Ave. Inglewood, California. USA. 90301","27,700","May
+2013",Delivery Station for Los Angeles Amazon's first U.S. Delivery Station
+California,DLA3,"5829 Smithway St, Commerce, California, USA, 90040","48,400","June
+2013",Delivery Station for East Los Angeles
+California,DLA4,"9031 Lurline Ave, Chatsworth. California, USA, 91311","29,200","June
+2013",Delivery Station for Burbank area
+California,DLAS,"6250 Sycamore Canyon Blvd., Riverside, California, USA, 92507 0771","36,000","April
+2016",Delivery Station for Riverside area
+California,DLA6,"Santa Ana, California, USA",-,"March
+2015",Delivery Station for Anaheim/Irvine area
+California,DLA7,"15940 Euclid Avenue, Chino, California, USA, 91748",-,"March
+2017",Delivery Station for City of Industry area
+California,DLA8,"2815 W. El Segundo Blvd., Hawthorne, California, USA, 90250",170.000,"July
+2016",Delivery Station for Los Angeles
+California,DLA9,"17871 Von Karman Ave, Irvine, California, USA, 92614","187,800","February
+2017",Delivery Station for Los Angeles May also contain a Pantry facility
+Florida,DMI1,"15600 NW 15th Ave, Miami Gardens. Florida, USA, 33169",-,"March
+2015",Delivery Station for Miami area Co-located in UFL1
+Florida,DMI2,"3200 Northwest 67th Avenue, Miami, Florida, USA, 33122",-,2017,"Delivery/Sortation Center located next to Miami International Airport.
+Regional Air Hub Facility
+Co-located in MIA6"
+Florida,DM1,"73 Kingspointe Pkwy, Orlando, Florida, USA, 32819","226,000",2016,"Delivery Station for Orlando
+May also contain a Pantry facility"
+Florida,DJA1,"11084 Cabot Commerce Circle, Jacksonville, Florida, USA, 32226","63,000",2017,Delivery Station for Jacksonville area
+Georgia,DAT1,"4800 Highlands Pkwy SE, Smyrna, Georgia, USA, 30082","114,000","August
+2016",Delivery Station for Atlanta area
+Illinois,DCH1,"2801 S. Western Ave, Chicago, Illinois, USA, 60608","150,000","June
+2015",Delivery Station for Chicago
+Illinois,DCH2,"8220 Austin Ave, Morton Grove. Illinois, USA, 60053","39,300","July
+2015",Delivery Station for Chicago
+Illinois,DCH3,"4500 Western Ave, Lisle , Illinois, USA, 60532","68,000","August
+2015",Delivery Station for Chicago
+Illinois,DCH4,"401 Terrace Dr., Mundelein. Illinois, USA, 60060","91,000","April
+2017",Delivery Station for Chicago
+Virginia,DDC1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",-,2015,Delivery Station for Washington DC Co-located in BWI6
+Maryland,DDC2,"861 E Gude Drive, Rockville, Maryland, USA. 20850","65,000","April
+2015",Delivery Station for Washington DC
+Massachusetts,DB01,"201 Beacham Street, Everett (Chelsea), Massachusetts, USA, 02149-5518",-,"June
+2016",Delivery Station for Boston Co-located in BOS6
+Massachusetts,DB02,"500 Sprague St.. Dedham, Massachusetts. USA. 02026",60.500,"August
+2015",Delivery Station for Boston
+Michigan,DDT1,"999 Chicago Road, Troy, Michigan, USA, 48083","26,000","September
+2017",Delivery Station for Detroit
+Minnesota,DMN1,"2811 Beverly Drive , Eagen, Minnesota, USA, 55121","142,000",2016,Delivery Station for Minneapolis/St. Paul
+Missouri,,"Building 4, 441 Hazelwood Logistics Center Drive, Hazelwood, Missouri, USA, 63042","100,000",Q3 2017,Delivery Station for St. Louis
+Nevada,DLV1,"3165 W. Sunset Rd, Suite 102, Las Vegas, Nevada, USA, 89118","84,200",2016,Delivery Station for Las Vegas
+New Jersey,DEW1,"2 Empire Boulevard, Moonachie, New Jersey, USA, 07074","75,000","May
+2015",Delivery Station for New Jersey
+New York,DAL1,"75 Cohoes Ave., Green Island Village , New York, USA, 12183","64,000",2017,Delivery Station for Albany Region
+New York,DNY1,"New York, New York, USA",-,"September
+2014",Delivery Station for New York City
+New Jersey,DNY2,"630 Sullivan Rd, Elizabeth, New Jersey, USA, 07201","65,000","September
+2015",Delivery Station for New York City
+Oregon,DP01,"3610 NW St Helens Rd. Portland, Oregon, USA, 97210","89,500","January
+2016",Delivery Station for Portland
+Pennsylvania,DPH1,"4219 Richmond Street, Philadelphia, Pennsylvania, USA, 19137",65.500,2015,Delivery Station for Philadelphia
+Texas,"DAU1/
+TTY/
+UTX2","2209 B Rutland Rd, Austin, Texas, USA, 78758",-,"April
+2015",Delivery Station for Austin Co-located in UTX2
+Texas,DDA1,"12401 North Stemmons Fwy, Farmers Branch , Texas, USA, 75234","183,000",2015,Delivery Station for Dallas
+Texas,DDA2,"3838 W Miller Road, Garland , Texas, USA, 75041","200,000","September
+2016",Delivery Station for Dallas
+Texas,DDA3,"4601 Gold Spike Drive, Fort Worth, Texas, USA, 76106",-,"December
+2016",Delivery Station for Fort Worth Market Co-located in DALE
+Texas,DH01,"11720 N Lessner Rd, Building 5, Houston, Texas, USA, 77064","155,400",2016,Delivery Station for Houston Market
+Virginia,DDC1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",-,2017,Delivery Station for Washington DC Market Co-located in UVA1
+Virginia,,"4101Carolina Avenue, Richmond, Virginia, USA, 23222","45,000","September
+2017",Delivery Station for Richmond VA
+Washington,DSF2,"6705 E Marginal Way, Seattle . Washington. USA, 98108",26.200,2015,Delivery Station for Seattle
+Wisconsin,DML1,"3935 W. Mitchell St., Milwaukee, Wisconsin. USA. 53125",50.000,"February
+2016",Delivery Station for Milwaukee

@@ -1,0 +1,331 @@
+﻿State,Code,Location,"Square
+Feet","Year
+Opened",Description of Operation
+Arizona,PHX3,"6835 West Buckeye Road, Phoenix, Arizona, USA, 85043- 4428","1,009,400","September
+2007","Large Sortable & Apparel Fulfillment Center. Originally opened at 605,000 Sq. Ft and expanded by 400,000 Sq. Ft. in Dec. 2011"
+Arizona,PHX5,"16920 W. Commerce Dr. , Goodyear, Arizona, USA, 85338- 3620","820,400","June
+2008","Large Non-Sortable Fulfillment Center.
+Originally opened at 800,000 Sq. Ft. and expanded to 1.2 Million Sq. Ft by adding 2 x 230,000 sq ft mezzanines in 2011."
+Arizona,PHX6/ TFC1,"4750 & 5050 West Mohave Street, Phoenix, Arizona, USA, 85043-4428","1,205,600","October
+2010","Large Sortable Fulfillment Center in one half of the building. Small Sortable Fulfillment
+Center in the other half"
+Arizona,PHX7/ PHX8,"800 N. 75th Ave, Phoenix,
+Arizona, USA, 85043-3101","267,
+100 1 .","September
+2011","PHX7 is Large Non-Sortable
+PHX8 is a Sortation Center"
+Arizona,PHX9,"777 S 79th Ave, Tolleson, Arizona, USA, 85353","580,100","October
+2015",PHX9 is a Seasonal FC
+Arizona,RUSH,"7037 West Van Buren Street , Phoenix, Arizona, USA, 85043","543,400","October
+2015","Large Non-Sortable FC
+Run by 3PL Menlo Logistics"
+California,ONT2/ ONT3,"1910 E. Central Ave., Building 3, San Bernardino, California, USA, 92408-0123","1,466,700","October
+2012","ONT2 is Small Sortable
+ONT3 is Make on Demand Printing (MOD) 2,000 associates"
+California,ONT6,"24208 San Michele Rd, Moreno Valley, California, USA, 92551- 9561","1,250,000","August
+2014",Small Sortable & Apparel Fulfillment Center 3.000 people
+California,ONT9,"2125 W. San Bernardino Ave, Redlands, California, USA, 92374-5005","777,600","October
+2014",Non-Sortable Fulfillment Center Ships large items (e.g. televisions)
+California,LGB1,"2417 E. Carson St., Long Beach, California, USA, 90810","468,100","June
+2016",Probably an Inbound Import / Break Bulk Center
+California,LGB4,"27517 Pioneer Ave, Redlands, California, USA, 92374-1501","750,000","June
+2017","Larger items, such as sports equipment, patio furniture and pet food."
+California,SNA6/ SNA9,"5250 Goodman Way, Eastvale. California, USA, 91752-5088","1,033,200","October
+2016",Small Sortable
+California,,"Goodman Commerce Center, Antu-Galleano Ranch Road Exit on the 1-15, Eastvale, California, USA, 91752","1,000,000",2018,Large Non-Sortable
+California,LGB6,"20901 Krameria Avenue, Riverside. California. USA, 92508",1.000.000,Q4 2017,Large Non-Sortable
+California,SNA7/ SNA8,"555 East Orange Road, Gateway South Building 3, San Bernardino, California, USA, 92408-2453","1,102,600","March
+2016",Small Sortable
+California,SMF1,"4900 W Elkhorn Blvd, Sacramento, California, USA, 95835-9505","855,000","October
+2017",Small Sortable
+California,,"Near Stockton Metro Airport, Stockton, California, USA","600,000",2018,Large Non-Sortable 1000 associates
+California,OAK3,"255 Park Center Drive,
+Patterson, California, USA, 95363-8876","1,000,000","October
+2013",Large Non-Sortable 1000 people
+California,OAK4/ OAK6,"1555 N. Chrisman Rd., Tracy, California, USA, 95304-9370","1,200,000","October
+2013","OAK4 is a Small Sortable Fulfillment Center Facility includes automation / robotics (Kiva) for small sortable products
+OAK6: Amazon.Fresh
+2,500 people"
+California,SJC7,"188 Mountain House Parkway. Tracy, California. USA. 95377- 8906","1,001.400","October
+2016","Large Non-Sortable. Ships larger products
+such as barbecues and appliances."
+California,XUSD,"1909 Zephyr Street, Stockton, California, USA, 95206","508000
+,","October
+2013","Large Non-Sortable (e.g. canoes, fishing rods)
+Outsourced to 3PL Menlo Logistics"
+California,SNA4,"2496 W Walnut Ave., Rialto.
+California, USA, 92376-3009",882.200,"November
+2015",Large Non-Sortable 300 people
+California,XUSJ,"1590 N Tamarind Ave., Rialto, California, USA, 92376","543,400","September
+2016","Large Non-Sortable
+Run By 3PL XPO Logistics"
+California,,"South Orange Avenue near Central Avenue, Fresno, California. USA,","855,000","July
+2018",Sortable
+Colorado,DEN1,"14601 Grant Street, Thornton, Colorado, USA,","855,000","August
+2018","Sortable
+1,500 associates to be hired"
+Colorado,DEN2,"240006 E. 19th Avenue, Aurora, Colorado, USA, 80019","1,000,000","September
+2017","Large Non-Sortable
+1,000 associates to be hired"
+Connecticut,BDL1,"801 Day Hill Road, Windsor, Connecticut, USA, 06095","1,017,500","June
+2015","Large Non-Sortable
+1500 Associates 1 M SF + 500,000 SF Mezzanine
+Ships large items like televisions"
+Connecticut,BDL2,"409 Washington Ave, North Haven. Connecticut, USA, 06473","855,000","Spring
+2019","Sortable
+1.800 associates to be hired"
+Delaware,PHL1,"1 Centerpoint Blvd, New Castle, Delaware, USA, 19720-4172","202,000","November
+1997","Large Sortable
+Amazon's 2nd DC in its network"
+Delaware,PHL7/ PHL8/ PHL9,"560 Merrimac Ave, Middletown, Delaware, USA, 19709-4652","000 035, 1
+,","October
+2012","PHL7 is Small Sortable
+PHL8 is a Sortation Center
+PHL9 is Make on Demand Printing (MOD) 3.000 full time associates"
+Florida,TPA1,"3350 Laurel Ridge Ave, Ruskin, Florida, USA, 33570-5526","1,017,600",Q4 2014,"Small Sortable
+3,000 full time people.
+Investment $200 Million.
+Facility expanded (doubled) in 2015 - 2016"
+Florida,TPA2/ LAL1,"1760 County Line Rd . ,
+Lakeland, Florida, USA, 33811- 1808","1,000,000","August
+2014","Large Non-Sortable
+Ships items such as televisions 800 full time people
+Investment $102 Million."
+Florida,XUSF,"901 W Landstreet Rd, Suite C, Orlando, Florida, USA, 32824- 8028","180,000","July
+2014",Large Non-Sortable Run by 3PL NFI
+Florida,JAX2,"12900 Pecan Park Road, Jacksonville, Florida. USA, 32218-2432",855.000,"September
+2017",Small Sortable
+Florida,JM3,"13333 103rd St., Cecil Commerce Center, Jacksonville, Florida, USA, 32221-8686","1,016,000",Q1 2018,Large Non-Sortable
+Florida,MIA1,"The Carrie Meek International Business Park, Curtiss Street & NW 42nd Ave , Opa-locka, Florida, USA, 33054","855,000",Q4 2017,Small Sortable
+Florida,MCO1,"Boggy Creek Road and Jeff Fuqua Boulevard, Orlando, Florida, USA, 32824","855,000",Q4 2018,Small Sortable
+Georgia,ATL6/ ATL5,"4200 North Commerce Dr, East Point, Georgia, USA, 30344- 5707","301,200","March
+2014",ATL6: Electronic and apparel merchandise. ATLS Sortation Center
+Georgia,ATL7,"6855 Shannon Parkway, Union City, Georgia, USA, 30291","517,100","February
+2015",Supplemental Fulfillment Center
+Georgia,ATL8,"2201 Thornton Road, Lithia Springs, Georgia, USA, 30122- 3895","733,200","November
+2015",Specialty Fulfillment Center
+Georgia,MGE1,"650 Broadway Ave., Braselton, Georgia, USA, 30517-3002","613000
+,","October
+2016","Large Sortable : Household decor items, sporting equipment and gardening tools"
+Georgia,MGE3,"808 Hog Mountain Road,
+Building F, Jefferson, Georgia, USA, 30549","822,300","July
+2017",Large Non-Sortable
+Indiana,IND1,"4255 Anson Blvd , Whitestown, Indiana, USA, 46075-4412","1,000,000","August
+2008","Large & Small Sortable
+Expanded by 400,000 Sq. Ft. in February, 2011. 2,000 associates."
+Indiana,IND2/ IND3,"715 & 717 Airtech Parkway, Plainfield, Hendricks County, Indiana, USA, 46168","947,300","October
+2008","IND2 is Large Non-Sortable
+IND3 is BISS/Small Parts"
+Indiana,IND4/ UIN1,"710 South Girls School Road, Indianapolis, Indiana, USA, 46231-1132","902,900","June
+2011","Small Sortable
+Specialty Text Book Fulfillment Center"
+Indiana,IND5,"800 South Perry Road, Plainfield, Hendricks County, Indiana, USA, 46168-7937","925,800","August
+2011","Large Non-Sortable
+Specialty Facility for HazMat merchandise"
+Indiana,IND7,"9101 Orly Drive, Indianapolis, Indiana, USA, 46241-9605","695,300","September
+2016","Supplemental Fulfillment Center set up inside of an existing Pepsi building near the IND airport. IND7 stows sortable case
+transshipped from IXD (cross dock) facilities, and then ships trans-out to nearby FC's (IND1, MKE1, LEX1)."
+Indiana,SDF8,"900 Patrol Road, Jeffersonville, Clark County, Indiana, USA, 47130-7761","1,200,000","October
+2012","Specialty Fulfillment Center for Apparel; shoes, watches, and jewelry"
+Indiana,XUSE,"5460 Industial Court Suite 300, Whitestown, Indiana, USA, 46075","624,000","October
+2013",Large Non-Sortable
+Illinois,MDW4,"201 Emerald Drive, Joliet. Illinois. USA, 60433-3281",700.000,"October
+2016","Specialty Fulfillment Center for Apparel; shoes, watches. and jewelry"
+Illinois,STL4,"3050 Gateway Commerce Center Drive South, Edwardsville,
+Illinois, USA, 62025-2815","717,000","September
+2016",Large Non-Sortable
+Illinois,STL6/ STL7,"3931 Lakeview Corporate Dr, Edwardsville, Illinois, USA, 62025-2801","769,500","September
+ 2016",Small Sortable
+Illinois,MDW6,"1125 W Remington Blvd, Romeoville, Illinois, USA, 60446- 6529","767,000","October
+2016",Large Non-Sortable
+Illinois,MDW7,"6521 W. Monee Manhattan Road, Monee, Illinois, USA, 60449-9668",856.600,"October
+2017",Small Sortable
+Illinois,MDW8,"1750 Bridge Drive, Waukegan, Illinois, USA, 60085","626,800","July
+2017",Large Non-Sortable
+Illinois,MDW9,"2806 Duke Parkway, Aurora, Illinois. USA, 60504","1.000,000",Q3 2018,Small Sortable
+Illinois,,"Route 59, Aurora, Illinois, USA, 60504","400,000",2018,Large Non-Sortable
+Kansas,MKC4,"31450 W 196th Street, Gardner (Edgerton), Kansas, USA, 66021","822,100",Q4 2016,"Large Non-Sortable
+Inland port facility. Employs 1,000 associates"
+Kansas,MKC6,"6925 Riverview Ave., Kansas City, Kansas, USA, 66102-3047","856,000","July
+2017",Small Sortable
+Kansas,MCI7,"27200 West 157th Street, Johnson (New Century), Kansas, USA, 66031","446,500",Q4 2016,
+Kansas,MCI8,"23100 W 43rd Street, Shawnee, Kansas, USA, 66226","80,000",2017,Official announcement not made yet. Role of facility TBD.
+Kentucky,CVG8,"7968 Kentucky Dr, Suites 2-3. Florence, Kentucky, USA, 41042","172,100","July
+2015","Amazon UNO
+Specialty : Small and light-weight products"
+Kentucky,CVG1/ PICV,"Bldg. F Park W Intl, 1155 Worldwide Blvd., Hebron, Kentucky, USA, 41048-8648","484,000","June
+2005","Specialty Fulfillment Center Apparel for Endless.com, Myhabit and Amazon Apparel"
+Kentucky,CVG2,"1600 Worldwide Blvd., Hebron, Kentucky, USA, 41048","543,000","December
+2005",Non-Sortable and Non-Sortable Returns
+Kentucky,LEX1/ LEX3,"1850 Mercer Drive, Lexington, Kentucky, USA, 40511","650,000","November
+2000","LEX1: Small Sortable
+LEX3: Printing Make on Demand (MOD)"
+Kentucky,LEX2,"172 Trade St., Lexington, Kentucky, USA, 40511","380,000","June
+2006",Warehouse Deals and Returns Center
+Kentucky,SDF1,"1050 South Columbia Avenue , Campbellsville, Kentucky, USA, 42718-1337","727,000","May
+1999","Large Sortable
+Expanded from 570,000 Sq. Ft. in 1999"
+Kentucky,SDF2,"4360 Robards Lane, Louisville, Kentucky, USA, 40218","110,000","September
+2005","Specialty FC: High Value watches, and jewelry"
+Kentucky,SDF4,"376 Zappos.com Blvd, Shepherdsville, Kentucky, USA, 40165","823,000","September
+2005",Specialty FC: Apparel /Footwear support Zappos.com
+Kentucky,SDF6,"271 Omega Pkwy, Shepherdsville, Kentucky, USA, 40165","118,000","April
+2012",Specialty FC: Apparel /Footwear support Zappos.com
+Kentucky,SDF7,"300 Omicron Court, Cedar Grove Business Park, Shepherdsville, Kentucky, USA, 40165","281,000","April
+2012",Specialty FC: Apparel /Footwear
+Kentucky,SDF9,"100 W. Thomas P. Echols Lane, St. 3, Shepherdsville, Kentucky, USA, 40165-7594","600,000","October
+2013",Returns Center Apparel/Footwear
+Kentucky,IVSA,"4620 Olympic Blvd, Erlanger, Kentucky, USA, 41018","109,200","August
+2015",Specialty Small and Light Products
+Maryland,BWIO/ BWI2,"2010 Broening Highway, Baltimore, Maryland, USA, 21224-6027","1,017,600","March
+2015",Small Sortable
+Maryland,"XUSD
+XUSM","610 Chelsea Rd, Aberdeen, Maryland, USA, 21001","571,800","October
+2016","Large Non-Sortable
+Run by 3PL XPO Logistics"
+Maryland,MDT2,"600 Principio Parkway West, Cecil, North East. Maryland, USA, 21901",1.148.900,"September
+2017",Large Non-Sortable
+Massachusetts,BOS7,"1180 Innovation Way, Fall River, Massachusetts, USA, 02722- 4766","1,000,000","October
+2016",Small Sortable
+Michigan,DTW1,"39000 Amrhein Rd., Livonia. Michigan. USA, 48150",1.009.000,"October
+2017",Large Non-Sortable
+Michigan,DTW2,"Junction of Wick Road & Vining Road, Romulus, Michigan, USA, 48174","855,000",2018,Small Sortable
+Michigan,DTW3,"23 Mile and Mound Roads, Shelby Township, Michigan, USA, 48316","1,000,000",2018,Large Non-Sortable
+Minnesota,MSP1,"2601 4th Ave E, Shakopee, Minnesota, USA, 55379-1726","820,000","July
+2016","Small Sortable
+$220 Million facility 2,000 associates"
+Nevada,LAS2,"3837 Bay Lake Trail, Suite 111, North Las Vegas, Nevada, USA, 89030","283,900","October
+2008",Amazon Pantry (FDFC) Return Center
+Nevada,LASE,"4550 Nexus Way, North Las
+Vegas, Nevada, USA, 89115","813,100","Summer
+2017",Large Non-Sortable
+Nevada,RNO3,"555 Milan Dr, Sparks, Nevada, USA, 89434",566.900,"November
+2010","Diaper.com Fulfillment Center that was owned by Quidsi Inc. which Amazon acquired in November, 2010"
+Nevada,RNO4,"8000 North Virginia Street , Reno, Nevada, USA, 89506","634,000","January
+2015","Large and Small Sortable
+Facility replaced the Fernley, Nevada FC"
+New Hampshire,BOS1,"10 State Street, Nashua. New Hampshire, USA, 03063","63,800","July
+2007",Small Sortable (FDFC)
+New Jersey,EWR4,"50 New Canton Way, Robbinsville, New Jersey, USA, 08691-2350","1,200,000","June
+2014",Small Sortable 2500 associates
+New Jersey,EWR8,"698 Route 46 West, Teterboro. New Jersey, USA, 07608",617.000,"June
+2017",Large Non-Sortable
+New Jersey,"LGA6/
+EWR9","8003 Industrial Ave, Building A, Carteret, New Jersey, USA, 07008-3529","1,064,500","August
+2016","Small Sortable
+Formerly a Wakefern Distribution Center"
+New Jersey,LGA9,"2170 State Route 27, Edison. New Jersey, USA, 08817-3332",923.000,Q4 2017,Small Sortable
+New Jersey,TEB6,"22 Hightstown-Cranbury Station Road, Cranbury Township, New Jersey, USA, 08512","930,000",Q2 2017,Large Non-Sortable
+New Jersey,TEB3,"2651 Oldmans Creek Rd, Swedesboro, Logan Township, New Jersey, USA, 08085","1,181,200",Q2 2017,Large Non-Sortable
+New York,,"656 Gulf Ave, Staten Island, New York, USA, 10314","855,000",Q3 2018,Small Sortable
+North Carolina,CLT2,"Macedonia Church Road. Kannapolis, North Carolina. USA, 28027","1,000,000",2019,Large Non-Sortable
+Ohio,CMH1/ CMHO,"11903 National Rd SW, Etna, Ohio, USA, 43062-7793","855000
+,","September
+2016","Small Sortable; Specialty Small and Light 3000 associates
+Investment $90 Million"
+Ohio,CMH2,"6050 Gateway Court, Obetz, Ohio, USA, 43125","1,000,000","December
+2016","Large Sortable
+New FC announced for Ohio. 500 associates"
+Ohio,CLE1,"20801 N Miles Rd, North
+Randall, Cleveland, Ohio, USA, 44128","855,000",Q2 2018,"Small Sortable
+New FC for Ohio to be confirmed by Amazon"
+Ohio,,"Monroe, Ohio, USA, 45036","1,000.000",2018,"Large Non-Sortable
+No ETA date announced yet"
+Oregon,PDX1,"NW Swigert Way, Troutdale Reynolds Industrial Park, Troutdale, Oregon, USA, 97060","855,000","July
+2018","Small Sortable
+No ETA date announced yet"
+Oregon,PD X2,"4775 Depot Court, Salem, Oregon, USA, 97317","1,000,000","July
+2018","Large Non-Sortable
+No ETA date announced yet"
+Oregon,PDX3,"Portland, Oregon, USA, 97060","1,000,000",2018,"Large Non-Sortable
+No ETA date announced yet"
+Pennsylvania,"ABE1/
+ABE2","705 Boulder Drive, Breinigsville, Pennsylvania, USA, 18031",600.000,"July
+2010",Large Sortable
+Pennsylvania,ABE3,"650 Boulder Drive , Breinigsville, Pennsylvania, USA, 18031-1536","483,000","June
+2011",Small Sortable (Books & Printed Media)
+Pennsylvania,AVP2/ AVP3,"298 1st Avenue, Gouldsboro, Pennsylvania, USA, 18424-9464","1,250,000","November
+2010 ","Diaper.com Fulfillment Center that was owned by Quidsi Inc. which Amazon acquired in November, 2010"
+Pennsylvania,PHL4,"21 Roadway Drive, Carlisle, Pennsylvania, USA, 17015","558,700","September
+2010",Large Non-Sortable
+Pennsylvania,PHLS,"500 McCarthy Dr., Lewisberry, Pennsylvania, USA, 17339-8725","750,000","August
+2010",Large Non-Sortable
+Pennsylvania,PHL6,"675 Allen Rd. , Carlisle, Pennsylvania, USA, 17015-7788","1,206,500","August
+2010",Large Non-Sortable
+Pennsylvania,ABES,"6455 Allentown Boulevard, Harrisburg, Pennsylvania, USA, 17112","200,000",2014,Large Non-Sortable 3PL NFI Industries
+Pennsylvania,XUSC,"40 Logistics Drive, Carlisle,
+Pennsylvania, USA, 17013","421,200","May
+2013","Large Non-Sortable (e.g. fishing rods, canoes, etc.)"
+Pennsylvania,XUSG,"9645 West Hills Ct, Kutztown, Pennsylvania. USA, 19530-8644","413,800","May
+2014",Large Non-Sortable 3PL NFI Industries
+Pennsylvania,MDT1,"2 Ames Drive, Building #2, Carlisle, Pennsylvania, USA, 17015","700,000","January
+2015",Large Non-Sortable
+Pennsylvania,ABE4,"1610 Van Buren Road, Easton, Pennsylvania, USA, 18045-7807","1,106,400","November
+2016",Large Sortable
+Pennsylvania,AVP8,"250 Enterprise Way, Pittston, Pennsylvania, USA, 18640-5000","399,500","November
+2016",Replaces AVP6 which was closed in July 2016. Supplemental Fulfillment Center.
+South Carolina,CAE1,"4400 12 Street Extension, West Columbia (Cayce), South Carolina, USA, 29172-3300","1,250,000","October
+2011",Small Sortable
+South Carolina,CAE3,"222 Old Wire Rd, West Columbia, South Carolina, USA, 29172-2862","120,000","February
+2017","Printing Make on Demand (MOD): Books, CDs, DVDs. Replaces the N. Charleston Facility CHS1 which was closed in Feb 2017"
+South Carolina,GSP1,"402 John Dodd Rd, Spartanburg. South Carolina, USA, 29303- 6312","1,016,100","September
+2012",Large Non-Sortable
+Tennessee,BNA1,"14840 Central Pike, Suite 190, Lebanon, Tennessee, USA, 37090-8119","449,000","September
+2011",Large Non-Sortable
+Tennessee,BNA2,"500 Duke Dr, Lebanon, Tennessee, USA, 37087-8123","1,200,000","February
+2013",Large Non-Sortable
+Tennessee,BNA3,"2020 Joe B Jackson Pkwy, Murfreesboro, Tennessee, USA, 37127-7792","1,000,000","September
+2012",Large Sortable
+Tennessee,CHA1,"7200 Discovery Drive, Chattanooga, Tennessee, USA, 37416-1749","1,020,000","September
+2011",Large Sortable
+Tennessee,CHA2,"225 Infinity Dr NW, Charleston, Tennessee, USA, 37310-1400","1,200,000","September
+2011","Large Non-Sortable (e.g. coffee makers, lawn tractors, barbecue grills, and water heaters along with bulk items)"
+Texas,DFW6,"940 W. Bethel Road , Coppell. Texas, USA. 75019-4424","1,000,000","October
+2013","Large Non-Sortable (televisions, furniture and electronics)"
+Texas,DFW7,"700 Westport Parkway, (Haslet) Fort Worth, Texas, USA, 76177- 4513","1,100,000","October
+2013","Small Sortable (Ships smaller items like books, small electronics and DVDs) Facility budgeted at $100 Million."
+Texas,FTW3/ FIVV4,"15201 Heritage Parkway, Fort Worth, Texas, USA, 76177-2517","1,000,000",2016,"FTW3 is the VNA side of the FC
+FTW4 is the robotics side (AR=Amazon Robotics) Small Sortable FC"
+Texas,XUSG,"14900 Frye Road, Fort Worth, Texas, USA, 76155","495,000","July
+2014","Large Non-Sortable (e.g. canoes, fishing rods)
+Fulfillment center is outsourced to 3PL Menlo Logistics"
+Texas,SAT1,"6000 Enterprise Avenue,
+Schertz, Texas, USA, 78154- 1461","1,260,000",Fall 2013,"Large Non-Sortable
+Schertz is nearby San Antonio, TX. Facility Investment $166 Million."
+Texas,SAT2,"1401 East McCarty Lane, San Marcos, Texas, USA, 78666- 8969","855,000","September
+2016","Small Sortable
+Facility Investment $190 Million"
+Texas,HOU2,"10550 Ella Street, Houston. Texas, USA, 77038-2324","855,000",Q4 2017,Small Sortable
+Texas,HOU3,"Woods Road and Interstate 10, Katy, Texas, USA, 77423","1,000,000",2018,Large Non-Sortable
+Texas,FTW2,"2701 W. Bethel Road. Coppell. Texas. USA, 75261-4015",1.000.000,"October
+2016",Large Non-Sortable
+Texas,FTW7,"944 W. Sandy Lake Road, Coppell, Texas, USA, 75019","604,800","November
+2017",Large Non-Sortable
+Texas,FTW8,"3351 Balmorhea Dr. Dallas, Texas, USA, 75241",500.000,"November
+2017",Supplemental Fulfillment Center Sq Ft an Estimate Only
+Utah,SLC1,"777 N. 5600 West, Salt Lake City, Utah, USA, 84116","855,000",2018,"Sortable
+1,000 associates to be hired"
+Virginia,RIC1,"5000 Commerce Way, Petersburg, Virginia, USA, 23803 6917","1,100,000","October
+2012","Large Non-Sortable
+Ships larger packages that range from electronics and sports equipment to small kitchen appliances and toys
+1,000 associates"
+Virginia,RIC2,"1901 Meadowdle Technology Parkway, Chesterfield, Virginia, USA, 23836-2841","1,200,000","October
+2012","Small Sortable
+Ships auto parts, consumer electronics, office supplies, books, etc."
+Virginia,,"281 Woodbine RoadClear Brook, Virginia, USA, 22624","1,061,000",2018,"Large Non-Sortable
+Ships larger packages that range from electronics and sports equipment to small kitchen appliances and toys
+1.000 associates"
+Washington,BFI1/ BFIX,"1800 140th Avenue E., Sumner, Washington, USA, 98390-9624","492,000","June
+2011","BFI1 is Small Sortable
+BFIX is Research & Development"
+Washington,BFI3,"2700 Center Drive, DuPont, Washington, USA, 98327-9607","1000,000
+,","February
+2015","Large Non-Sortable
+(Ships larger items such as canoes and televisions.
+Includes KIVA automation
+Facility cost $100 Million"
+Washington,BFI4,"21005 64th Ave. S, Kent, Washington, USA, 98032-2423","885,000","March
+2016","Small Sortable (books, electronics and consumer goods)"
+Wisconsin,MKE1/ MKE7,"3501 120th Ave, Kenosha, Wisconsin, USA, 53144-7502","1,000,000","June
+2015","MKE1 is a Small / Large Sortable facility that employs up to 3400 people. Facility includes a Textbook Rental Processing Center. $155 Million investment. MKE7 is a
+future facility that may be in a different location."

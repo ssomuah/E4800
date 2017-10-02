@@ -1,0 +1,94 @@
+﻿State,Code,Location,"Square
+Feet","Year
+Opened",Description of Operation
+Arizona,UAZ1/ DPX1,"500 S 48th St, Phoenix, Arizona, USA, 85034","59,900","May
+2015",Prime Now Hub/Delivery Station for Phoenix
+California,UCA1,"888 Tennessee Street, San Francisco, California, USA, 94112","39,000","October
+2016",Prime Now Hub for San Francisco
+California,UCA2,"2400 Marine Ave, Redondo Beach, California, USA, 90278","50,000",2015,Prime Now Hub for Los Angeles
+California,UCA3,"11800 W Olympic Blvd, Santa Monica. California, USA, 90064- 1100","28,800",September-15,Prime Now Hub for Santa Monica
+California,UCA4,"2006 McGaw Ave, Irvine, California, USA, 92614","45,300",2015,"Prime Now Hub for Irvine, CA"
+California,UCAS,"Near South Vermont Ave & Wilshire Blvd, Silver Lake, California. USA, 90065",-,2015,Prime Now Hub for North Los Angeles
+California,UCA6,"2727 Kurtz St, San Diego, California, USA, 92110","37,800",2015,Prime Now Hub for San Diego
+California,UCA7,"222 Commercial Street, Sunnyvale, California, USA, 94085-4508","24,000",2015,Prime Now Hub for San Jose
+California,UCA8,"3100 San Pablo Ave. Ste 120, West Berkley, California, USA, 94702","21,000",2015,Prime Now Hub for Oakland
+California,UCA9,"2934 Ramona Avenue, Sacramento, California, USA, 95826-3813","20,000","April
+2016",Prime Now Hub for Sacramento
+California,HCA3,"3334 North San Fernando Road, Building E, Los Angeles, California, USA, 90065-1417","58,900",September-15,Prime Now Hub for North Los Angeles
+California,,"2403 W. Louise Ave., Manteca. California, USA, 95337",91.100,2017,"Prime Now Hub/Delivery Station for Stockton. Modesto, and Tracy"
+Colorado,UCO1,"19799 E. 36th Avenue, Majestic Commercenter Building #29, Aurora, Colorado, USA, 80011- 8189",,"June
+2016","Prime Now Hub for Denver
+Located within Sortation Center DENS"
+Colorado,UCO2,"3550 Frontier Ave., Boulder. Colorado, USA, 80301","19,000",2017,Prime Now Hub for Boulder (Assumed)
+Florida,UFL1/ DMII,"15600 NW 15th Ave, Miami Gardens, Florida, USA, 33169","37,400","October
+2014",Prime Now Hub for Miami
+Florida,UFL2,"101 NE 23rd Street, Miami, Florida, USA, 33137","50,000","April
+2016",Prime Now Hub for Miami
+Florida,UFL3,"4440 East Adamo Drive, Suite 305, Tampa, Florida, USA, 33605","30,000","February
+2016",Prime Now Hub for Tampa Bay
+Florida,UFL4,"7469 Kingspointe Parkway, Orlando, Florida, USA, 32819","96,000","May
+2016",Prime Now Hub for Orlando
+Georgia,"UGA1/
+UGA2","2302 Marietta Boulevard, Atlanta, Georgia, USA, 30318","43,900","February
+2016",Prime Now Hub for Atlanta
+Georgia,UGA3,"2160 Breckenridge Blvd Suite 100, Lawrenceville, Georgia, USA, 30043","55,400","March
+2016",Prime Now Hub for Atlanta
+Illinois,UIL1,"1111 N. Cherry Ave., Chicago, Illinois, USA, 60642","52,000","July
+2015",Prime Now Hub for Chicago
+Illinois,UIL2,"1250 N. Mittel Blvd, Wood Dale, Illinois, USA, 60191",-,"July
+2016",Prime Now Hub for Chicago Co-located in ORD6
+Indiana,UIN1,"710 South Girls School Road, Indianapolis, Indiana, USA, 46231-1132",-,"July
+2015",Prime Now Hub for Indianapolis Co-located in IND4
+Maryland,UMD1,"5001 Holabird Ave., Baltimore, Maryland, USA, 21224-6026",-,"March
+2015",Prime Now Hub for Baltimore Co-located in BWIS
+Massachusetts,UMA3,"30 Northampton Street, Boston, Massachusetts, USA, 02118","72,300",2015,Prime Now Hub for Boston
+Michigan,UMI1,"Building 9, 19991 Brownstown Center Drive, Trenton, Michigan, USA 48183",-,,Prime Now Hub for Detroit Co-located in Sortation Center DTWS
+Minnesota,UMN1,"763 Kasota Ave., Minneapolis, Minnesota, USA, 55414","35,000","October
+2015",Prime Now Hub for Minneapolis/St Paul
+Nevada,UNV1,"3650 East Post Road, Suite E, Las Vegas, Nevada, USA, 89120. 6297","16,300","October
+2015",Prime Now Hub for Las Vegas
+New York,JFK7,"7 W. 34th St., New York, New York, USA, 10001-8100","40,000","December
+2014",Prime Now Hub for Manhattan
+New York,,"850 Third Ave., Liberty View Industrial Plaza, Brooklyn, New York, USA. 11232",-,"December
+2015",Prime Now Hub for Brooklyn
+New Jersey,UNJ1,"940 Monroe Street, Hoboken, New Jersey, USA, 07030","120,000",2015,Prime Now Hub for New Jersey
+North Carolina,UNC1,"300 Dalton Avenue, Charlotte, North Carolina, USA, 28206-3118","33,900","December
+2015",Prime Now Hub for Charlotte
+North Carolina,UNC2,"3200 Bush Street, Raleigh, North Carolina, USA, 27609-7503","30,000","February
+2016",Prime Now Hub for Raleigh
+Ohio,U0H1,"5845 Highland Ridge Drive, Cincinnati, Ohio, USA, 45232","58,000","February
+2016",me Now Hub for Cincinnati Prime
+Ohio,U0H2,"3563 Interchange Road, Columbus, Ohio, USA, 43204","45,700","February
+2016","Prime Now Hub for Columbus, OH"
+Oregon,UOR1,"2250 Northwest 22nd Avenue. Portland, Oregon, USA, 97210",-,"August
+2015",Prime Now Hub for Portland. OR
+Pennsylvania,UPA1,"4101 Sansom Street, Philadelphia, Pennsylvania, USA, 19104-3021","35,000",2015,Prime Now Hub for Philadelphia
+Tennessee,UTN1,"410 Harding Industrial Drive, Nashville, Tennessee, USA, 37211",60.000,2015,Prime Now Hub for Nashville
+Texas,UTX1,"2700 Regent Blvd, Irving, Texas, USA, 75063",-,2015,Prime Now Hub for Dallas. TX
+Texas,UTX2,"2209 B Rutland Rd, Austin, Texas, USA, 78758",45.000,2015,Prime Now Hub for Austin TX
+Texas,UTX3/ HTX1/ HTX2/ MO,"4221 Way Out West Drive, Houston, Texas, USA, 77092","88,000","October
+2015","Prime Now Hub for Houston, TX"
+Texas,UTX4/ TrX4,"6627 Maple Avenue, Dallas. Texas, USA, 75235","42,600",2016,"Prime Now Hub for Fort Worth, TX"
+Texas,UTX5,"4848 Perrin Creek, Suite 680, San Antonio, Texas, USA, 78217","24,800","November
+2015",Prime Now Hub for San Antonio TX
+Texas,"UTX7/
+DDA3","4601 Gold Spike Drive, Fort Worth. Texas. USA, 76106",-,"October
+2016",Prime Now Hub for Fort Worth. TX Co-located in DDA3
+Virginia,UVA1/ DDC1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",-,2015,Prime Now Hub for Washington DC Co-located in BWI6
+Virginia,UVA2,"804 Greenbrier Circle, Chesapeake, Virginia, USA, 23320","18,300","February
+2016",Prime Now Hub for Chesapeake VA
+Virginia,UVA3,"2034 Dabney Road, Richmond. Virginia, USA, 23230","11,900","November
+2015","Prime Now Hub for Richmond, VA"
+Washington,UWA1/ HWA1/ HWA2,"11710 118th Ave. N.E. , Building B, Kirkland, Washington, USA, 98034","38,300",2015,Prime Now Hub for Seattle WA
+Washington,"uwA2f
+TVVAO","13537 Aurora Ave. N., North
+Seattle, Washington, USA, 98133","38,400",2015,Prime Now Hub for Seattle WA
+Washington,UWA3,"2121 8th Ave., Seattle , Washington, USA, 98121",18.900,2015,Prime Now Hub for Seattle WA
+Washington,UWA4/ FSE3,"76 S Lander St., Seattle ,
+Washington, USA, 98134","40,000","October
+2016",Prime Now Hub for Seattle WA
+Washington,UWAS,"1926 6th Ave. S., Seattle , Washington, USA, 98134","17,500","January
+2016",me Now Hub for Seattle WA Prime
+Wisconsin,UWI1,"4111 W Mitchell St, Milwaukee, Wisconsin, USA, 53215","60800
+,","March
+2017","Prime Now Hub for Milwaukee, WI Also Amazon.Fresh facility"
