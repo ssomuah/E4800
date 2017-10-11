@@ -1,404 +1,480 @@
-State,Code,Location,Square Feet,Year Opened,Description of Operation,Type,County,City,Year
-Arizona,DPX1,"500 S. 48th Street, Phoenix, Arizona, USA, 85034",-,May 2015,Delivery Station for Phoenix West Valley Co-located in UAZ1,Delivery Station,Maricopa County,Phoenix,2015
-Arizona,DPX3,"550 E. Elliot Rd, Chandler . Arizona, USA, 85225",91.200,May 2017,Delivery Station for Phoenix East Valley,Delivery Station,Maricopa County,Chandler,2017
-California,DSF1,"990 Beecher St, San Leandro, California, USA, 94577","42,400",September 2013,Delivery Station for Oakland,Delivery Station,Alameda County,San Leandro,2013
-California,DSF2,"Candlestick Park Delivery Station, San Francisco, California. USA, 94124",-,September 2013,Delivery Station for Bay Area,Delivery Station,nan,nan,2013
-California,DSF3,"1700 Montague Expy, San Jose, California, USA, 95131","25,800",2013,Delivery Station for San Jose,Delivery Station,Santa Clara County,San Jose,2013
-California,DSFS,"250 Utah Avenue, South San Francisco, California, USA, 94080-6801","111,000",June 2016,Delivery Station for South San Francisco,Delivery Station,San Mateo County,South San Francisco,2016
-California,DSF6,"6015 Giant Road, Richmond, California, USA, 94080-6801","224,200",Fall 2016,Delivery Station for Northeast Bay Area,Delivery Station,Contra Costa County,Richmond,2016
-California,DSD1,"16550 Via Esprillo, San Diego, California, USA, 92127","165,600",2013,"Delivery Station for San Diego
-Relocated to this location in March 2017",Delivery Station,San Diego County,San Diego,2013
-California,DSD2,"2777 Loker Ave W, Carlsbad, California, USA, 92010-6517","39,700",2013,Delivery Station for San Diego,Delivery Station,San Diego County,Carlsbad,2013
-California,DLA1,"900 W Florence Ave. Inglewood, California. USA. 90301","27,700",May 2013,Delivery Station for Los Angeles Amazon's first U.S. Delivery Station,Delivery Station,Los Angeles County,Inglewood,2013
-California,DLA3,"5829 Smithway St, Commerce, California, USA, 90040","48,400",June 2013,Delivery Station for East Los Angeles,Delivery Station,Los Angeles County,Los Angeles,2013
-California,DLA4,"9031 Lurline Ave, Chatsworth. California, USA, 91311","29,200",June 2013,Delivery Station for Burbank area,Delivery Station,Los Angeles County,Los Angeles,2013
-California,DLAS,"6250 Sycamore Canyon Blvd., Riverside, California, USA, 92507 0771","36,000",April 2016,Delivery Station for Riverside area,Delivery Station,Riverside County,Riverside,2016
-California,DLA6,"Santa Ana, California, USA",-,March 2015,Delivery Station for Anaheim/Irvine area,Delivery Station,Orange County,Santa Ana,2015
-California,DLA7,"15940 Euclid Avenue, Chino, California, USA, 91748",-,March 2017,Delivery Station for City of Industry area,Delivery Station,San Bernardino County,Chino,2017
-California,DLA8,"2815 W. El Segundo Blvd., Hawthorne, California, USA, 90250",170.000,July 2016,Delivery Station for Los Angeles,Delivery Station,Los Angeles County,Hawthorne,2016
-California,DLA9,"17871 Von Karman Ave, Irvine, California, USA, 92614","187,800",February 2017,Delivery Station for Los Angeles May also contain a Pantry facility,Delivery Station,Orange County,Irvine,2017
-Florida,DMI1,"15600 NW 15th Ave, Miami Gardens. Florida, USA, 33169",-,March 2015,Delivery Station for Miami area Co-located in UFL1,Delivery Station,Miami-Dade County,Miami,2015
-Florida,DMI2,"3200 Northwest 67th Avenue, Miami, Florida, USA, 33122",-,2017,"Delivery/Sortation Center located next to Miami International Airport.
-Regional Air Hub Facility
-Co-located in MIA6",Delivery Station,Miami-Dade County,Miami,2017
-Florida,DM1,"73 Kingspointe Pkwy, Orlando, Florida, USA, 32819","226,000",2016,"Delivery Station for Orlando
-May also contain a Pantry facility",Delivery Station,Orange County,Orlando,2016
-Florida,DJA1,"11084 Cabot Commerce Circle, Jacksonville, Florida, USA, 32226","63,000",2017,Delivery Station for Jacksonville area,Delivery Station,Duval County,Jacksonville,2017
-Georgia,DAT1,"4800 Highlands Pkwy SE, Smyrna, Georgia, USA, 30082","114,000",August 2016,Delivery Station for Atlanta area,Delivery Station,Cobb County,Smyrna,2016
-Illinois,DCH1,"2801 S. Western Ave, Chicago, Illinois, USA, 60608","150,000",June 2015,Delivery Station for Chicago,Delivery Station,Cook County,Chicago,2015
-Illinois,DCH2,"8220 Austin Ave, Morton Grove. Illinois, USA, 60053","39,300",July 2015,Delivery Station for Chicago,Delivery Station,Cook County,Morton Grove,2015
-Illinois,DCH3,"4500 Western Ave, Lisle , Illinois, USA, 60532","68,000",August 2015,Delivery Station for Chicago,Delivery Station,DuPage County,Lisle,2015
-Illinois,DCH4,"401 Terrace Dr., Mundelein. Illinois, USA, 60060","91,000",April 2017,Delivery Station for Chicago,Delivery Station,Lake County,Mundelein,2017
-Virginia,DDC1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",-,2015,Delivery Station for Washington DC Co-located in BWI6,Delivery Station,Fairfax County,Springfield,2015
-Maryland,DDC2,"861 E Gude Drive, Rockville, Maryland, USA. 20850","65,000",April 2015,Delivery Station for Washington DC,Delivery Station,Montgomery County,Rockville,2015
-Massachusetts,DB01,"201 Beacham Street, Everett (Chelsea), Massachusetts, USA, 02149-5518",-,June 2016,Delivery Station for Boston Co-located in BOS6,Delivery Station,nan,Chelsea,2016
-Massachusetts,DB02,"500 Sprague St.. Dedham, Massachusetts. USA. 02026",60.500,August 2015,Delivery Station for Boston,Delivery Station,Norfolk County,Dedham,2015
-Michigan,DDT1,"999 Chicago Road, Troy, Michigan, USA, 48083","26,000",September 2017,Delivery Station for Detroit,Delivery Station,Oakland County,Troy,2017
-Minnesota,DMN1,"2811 Beverly Drive , Eagen, Minnesota, USA, 55121","142,000",2016,Delivery Station for Minneapolis/St. Paul,Delivery Station,Dakota County,Eagan,2016
-Missouri,,"Building 4, 441 Hazelwood Logistics Center Drive, Hazelwood, Missouri, USA, 63042","100,000",Q3 2017,Delivery Station for St. Louis,Delivery Station,St. Louis County,Hazelwood,2017
-Nevada,DLV1,"3165 W. Sunset Rd, Suite 102, Las Vegas, Nevada, USA, 89118","84,200",2016,Delivery Station for Las Vegas,Delivery Station,Clark County,Las Vegas,2016
-New Jersey,DEW1,"2 Empire Boulevard, Moonachie, New Jersey, USA, 07074","75,000",May 2015,Delivery Station for New Jersey,Delivery Station,Bergen County,Moonachie,2015
-New York,DAL1,"75 Cohoes Ave., Green Island Village , New York, USA, 12183","64,000",2017,Delivery Station for Albany Region,Delivery Station,Albany County,Green Island,2017
-New York,DNY1,"New York, New York, USA",-,September 2014,Delivery Station for New York City,Delivery Station,nan,New York,2014
-New Jersey,DNY2,"630 Sullivan Rd, Elizabeth, New Jersey, USA, 07201","65,000",September 2015,Delivery Station for New York City,Delivery Station,Union County,Elizabeth,2015
-Oregon,DP01,"3610 NW St Helens Rd. Portland, Oregon, USA, 97210","89,500",January 2016,Delivery Station for Portland,Delivery Station,Multnomah County,Portland,2016
-Pennsylvania,DPH1,"4219 Richmond Street, Philadelphia, Pennsylvania, USA, 19137",65.500,2015,Delivery Station for Philadelphia,Delivery Station,Philadelphia County,Philadelphia,2015
-Texas,"DAU1/
-TTY/
-UTX2","2209 B Rutland Rd, Austin, Texas, USA, 78758",-,April 2015,Delivery Station for Austin Co-located in UTX2,Delivery Station,Travis County,Austin,2015
-Texas,DDA1,"12401 North Stemmons Fwy, Farmers Branch , Texas, USA, 75234","183,000",2015,Delivery Station for Dallas,Delivery Station,Dallas County,Farmers Branch,2015
-Texas,DDA2,"3838 W Miller Road, Garland , Texas, USA, 75041","200,000",September 2016,Delivery Station for Dallas,Delivery Station,Dallas County,Garland,2016
-Texas,DDA3,"4601 Gold Spike Drive, Fort Worth, Texas, USA, 76106",-,December 2016,Delivery Station for Fort Worth Market Co-located in DALE,Delivery Station,Tarrant County,Fort Worth,2016
-Texas,DH01,"11720 N Lessner Rd, Building 5, Houston, Texas, USA, 77064","155,400",2016,Delivery Station for Houston Market,Delivery Station,nan,nan,2016
-Virginia,DDC1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",-,2017,Delivery Station for Washington DC Market Co-located in UVA1,Delivery Station,Fairfax County,Springfield,2017
-Virginia,,"4101Carolina Avenue, Richmond, Virginia, USA, 23222","45,000",September 2017,Delivery Station for Richmond VA,Delivery Station,Henrico County,Richmond,2017
-Washington,DSF2,"6705 E Marginal Way, Seattle . Washington. USA, 98108",26.200,2015,Delivery Station for Seattle,Delivery Station,King County,Seattle,2015
-Wisconsin,DML1,"3935 W. Mitchell St., Milwaukee, Wisconsin. USA. 53125",50.000,February 2016,Delivery Station for Milwaukee,Delivery Station,Milwaukee County,Milwaukee,2016
-California,ONT4/ ONT7,"2020 E. Central Ave., Building 4, San Bernardino, California, USA, 92408-2606","514,600",October 2013,"Building 4 connects to Building 3 ONT4 is Amazon.Fresh
-ONT7 is Amazon Pantry",Fresh,San Bernardino County,San Bernardino,2013
-California,LAX6,"5119 District Blvd, Vernon, California. USA. 90058","121,100",,Amazon.Fresh,Fresh,Los Angeles County,Vernon,
-California,OAK6,"1555 N. Chrisman Rd., Tracy, California, USA, 95304-9370",-,October 2013,OAK6 is Amazon.Fresh for the San Francisco Bay Area co-located within OAK4,Fresh,San Joaquin County,Tracy,2013
-California,OAK7,"38811 Cherry Street, Newark. California, USA, 94560-4939",-,November 2014,OAK7 is Amazon Pantry Co-located within OAKS,Fresh,Alameda County,Newark,2014
-Colorado,DEN6,"Crossroads Commerce Park, Building 2, 480 E. 55th Ave., Adams , Denver, Colorado, USA, 80216","290,700",2017,To be confirmed as an Amazon.Fresh Distribution Center,Fresh,Denver County,Denver,2017
-Florida,MIA6/ DMI2,"3200 Northwest 67th Avenue. Miami, Florida. USA, 33122",117.200,2017,Amazon Pantry/Delivery Station,Fresh,Miami-Dade County,Miami,2017
-Georgia,ATL9,"2232 Northmont Parkway, Duluth, Georgia, USA, 30096","88,800",November 2016,Amazon.Fresh for Atlanta Market,Fresh,Gwinnett County,Duluth,2016
-Illinois,ORD61 UIL2,"1250 N. Mittel Blvd, Wood Dale, Illinois, USA, 60191","82,100",July 2016,Amazon.Fresh for Chicago market,Fresh,DuPage County,Wood Dale,2016
-Kentucky,CVGS/ CVG7,"2285 Litton Lane, Hebron, Kentucky, USA, 41048-8435",-,September 2013,CVG7 is Amazon Pantry Co-located in CVGS,Fresh,Boone County,Hebron,2013
-Massachusetts,BOS6/ DB01,"201 Beacham Street, Everett (Chelsea), Massachusetts, USA, 02149-5518",96.600,June 2015,Amazon.Fresh for Boston Market,Fresh,nan,Chelsea,2015
-New Jersey,EWR61 EWR7,"275 Omar Ave., Avenel, New Jersey, USA, 07001-2225","391,700",September 2013,"EWR6 is Amazon Fresh
-EWR7 is Amazon Pantry",Fresh,Middlesex County,Woodbridge Township,2013
-New Jersey,LGA7/ LGA8,"380 Middlesex Ave, Carteret, New Jersey, USA, 07008-3446","810,000",August 2016,"LGA7 is Pantry;
-LGA8 is Amazon.Fresh Formerly a White Rose DC",Fresh,Middlesex County,Carteret,2016
-New York,,"201 Grumman Rd. W. , Bethpage, New York, USA, 11714","161,400",Q4 2016 ,"Amazon Pantry (FDFC)
-Formerly a Goya Distribution Center",Fresh,Nassau County,Bethpage,2016
-Texas,DAL6/ DDA3/ UTX7,"4601 Gold Spike Drive, Fort Worth, Texas, USA, 76106","558,600",October 2016,Amazon.Fresh Distribution Center,Fresh,Tarrant County,Fort Worth,2016
-Texas,,"Fallbrook Pines Business Park near the intersection of Beltway 8 and Highway 249 , Houston, Texas, USA, 77064","197,900",2018,Amazon.Fresh Distribution Center,Fresh,nan,nan,2018
-Virginia,BWI1,"45121 Global Plaza, Sterling, Virginia, USA, 20166","80,900",September 2013,Amazon Pantry (FDFC),Fresh,Loudoun County,Sterling,2013
-Virginia,BWI6I UVA1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410","115,100",June 2016 ,Amazon.Fresh,Fresh,Fairfax County,Springfield,2016
-Washington,SEA6/ SEA8/ ISE2,"1227 124th Ave NE, Building 2, Bellevue, Washington, USA, 98005-2111","313,300",August 2007,"SEA6: Amazon Pantry Fulfillment Center
-SEA8: Amazon Fresh Fulfillment Center with perishables and frozen foods. SEA8 to move to BFI6 in Q2 2017.",Fresh,King County,Bellevue,2007
-Washington,BFI6,"20202 84th Ave S., Kent, Washington, USA, 98032","158,200",Q2 2017,Amazon Fresh to replace SEA8 by Q2 2017,Fresh,King County,Kent,2017
-Washington,BFI7,"1901 140th Ave E, Sumner, Washington, USA, 98390","229,800",Q2 2017,Amazon Pantry to replace SEA6 by Q2 2017,Fresh,Pierce County,Sumner,2017
-Wisconsin,MKE7,"Burlington, Wisconsin, USA",-,2018,Amazon Pantry for Milwaukee TBD,Fresh,Racine County,Burlington,2018
-Arizona,PHX3,"6835 West Buckeye Road, Phoenix, Arizona, USA, 85043- 4428","1,009,400",September 2007,"Large Sortable & Apparel Fulfillment Center. Originally opened at 605,000 Sq. Ft and expanded by 400,000 Sq. Ft. in Dec. 2011",Fulfillment,Maricopa County,Phoenix,2007
-Arizona,PHX5,"16920 W. Commerce Dr. , Goodyear, Arizona, USA, 85338- 3620","820,400",June 2008,"Large Non-Sortable Fulfillment Center.
-Originally opened at 800,000 Sq. Ft. and expanded to 1.2 Million Sq. Ft by adding 2 x 230,000 sq ft mezzanines in 2011.",Fulfillment,Maricopa County,Goodyear,2008
-Arizona,PHX6/ TFC1,"4750 & 5050 West Mohave Street, Phoenix, Arizona, USA, 85043-4428","1,205,600",October 2010,"Large Sortable Fulfillment Center in one half of the building. Small Sortable Fulfillment
-Center in the other half",Fulfillment,Pinal County,Apache Junction,2010
-Arizona,PHX7/ PHX8,"800 N. 75th Ave, Phoenix, Arizona, USA, 85043-3101","267,
-100 1 .",September 2011,"PHX7 is Large Non-Sortable
-PHX8 is a Sortation Center",Fulfillment,Maricopa County,Phoenix,2011
-Arizona,PHX9,"777 S 79th Ave, Tolleson, Arizona, USA, 85353","580,100",October 2015,PHX9 is a Seasonal FC,Fulfillment,Maricopa County,Tolleson,2015
-Arizona,RUSH,"7037 West Van Buren Street , Phoenix, Arizona, USA, 85043","543,400",October 2015,"Large Non-Sortable FC
-Run by 3PL Menlo Logistics",Fulfillment,Maricopa County,Phoenix,2015
-California,ONT2/ ONT3,"1910 E. Central Ave., Building 3, San Bernardino, California, USA, 92408-0123","1,466,700",October 2012,"ONT2 is Small Sortable
-ONT3 is Make on Demand Printing (MOD) 2,000 associates",Fulfillment,San Bernardino County,San Bernardino,2012
-California,ONT6,"24208 San Michele Rd, Moreno Valley, California, USA, 92551- 9561","1,250,000",August 2014,Small Sortable & Apparel Fulfillment Center 3.000 people,Fulfillment,Riverside County,Moreno Valley,2014
-California,ONT9,"2125 W. San Bernardino Ave, Redlands, California, USA, 92374-5005","777,600",October 2014,Non-Sortable Fulfillment Center Ships large items (e.g. televisions),Fulfillment,San Bernardino County,Redlands,2014
-California,LGB1,"2417 E. Carson St., Long Beach, California, USA, 90810","468,100",June 2016,Probably an Inbound Import / Break Bulk Center,Fulfillment,Los Angeles County,Long Beach,2016
-California,LGB4,"27517 Pioneer Ave, Redlands, California, USA, 92374-1501","750,000",June 2017,"Larger items, such as sports equipment, patio furniture and pet food.",Fulfillment,San Bernardino County,Redlands,2017
-California,SNA6/ SNA9,"5250 Goodman Way, Eastvale. California, USA, 91752-5088","1,033,200",October 2016,Small Sortable,Fulfillment,Riverside County,Eastvale,2016
-California,,"Goodman Commerce Center, Antu-Galleano Ranch Road Exit on the 1-15, Eastvale, California, USA, 91752","1,000,000",2018,Large Non-Sortable,Fulfillment,Riverside County,Eastvale,2018
-California,LGB6,"20901 Krameria Avenue, Riverside. California. USA, 92508",1.000.000,Q4 2017,Large Non-Sortable,Fulfillment,Riverside County,Riverside,2017
-California,SNA7/ SNA8,"555 East Orange Road, Gateway South Building 3, San Bernardino, California, USA, 92408-2453","1,102,600",March 2016,Small Sortable,Fulfillment,Orange County,Irvine,2016
-California,SMF1,"4900 W Elkhorn Blvd, Sacramento, California, USA, 95835-9505","855,000",October 2017,Small Sortable,Fulfillment,Sacramento County,Sacramento,2017
-California,,"Near Stockton Metro Airport, Stockton, California, USA","600,000",2018,Large Non-Sortable 1000 associates,Fulfillment,San Joaquin County,Stockton,2018
-California,OAK3,"255 Park Center Drive, Patterson, California, USA, 95363-8876","1,000,000",October 2013,Large Non-Sortable 1000 people,Fulfillment,Stanislaus County,Patterson,2013
-California,OAK4/ OAK6,"1555 N. Chrisman Rd., Tracy, California, USA, 95304-9370","1,200,000",October 2013,"OAK4 is a Small Sortable Fulfillment Center Facility includes automation / robotics (Kiva) for small sortable products
+Code,Description of Operation,Location,Square Feet,Square Feet,State,Type,Year Opened,Year Opened,County,City,Year
+DPX1,Delivery Station for Phoenix West Valley Co-located in UAZ1,"500 S. 48th Street, Phoenix, Arizona, USA, 85034",,-,Arizona,Delivery Station,,"May
+2015",Maricopa County,Phoenix,
+DPX3,Delivery Station for Phoenix East Valley,"550 E. Elliot Rd, Chandler . Arizona, USA, 85225",,91.200,Arizona,Delivery Station,,"May
+2017",Maricopa County,Chandler,
+DSF1,Delivery Station for Oakland,"990 Beecher St, San Leandro, California, USA, 94577",,"42,400",California,Delivery Station,,"September
+2013",Alameda County,San Leandro,
+DSF2,Delivery Station for Bay Area,"Candlestick Park Delivery Station, San Francisco, California. USA, 94124",,-,California,Delivery Station,,"September
+2013",,,
+DSF3,Delivery Station for San Jose,"1700 Montague Expy, San Jose, California, USA, 95131",,"25,800",California,Delivery Station,,2013,Santa Clara County,San Jose,
+DSFS,Delivery Station for South San Francisco,"250 Utah Avenue, South San Francisco, California, USA, 94080-6801",,"111,000",California,Delivery Station,,"June
+2016",San Mateo County,South San Francisco,
+DSF6,Delivery Station for Northeast Bay Area,"6015 Giant Road, Richmond, California, USA, 94080-6801",,"224,200",California,Delivery Station,,Fall 2016,Contra Costa County,Richmond,
+DSD1,"Delivery Station for San Diego
+Relocated to this location in March 2017","16550 Via Esprillo, San Diego, California, USA, 92127",,"165,600",California,Delivery Station,,2013,San Diego County,San Diego,
+DSD2,Delivery Station for San Diego,"2777 Loker Ave W, Carlsbad, California, USA, 92010-6517",,"39,700",California,Delivery Station,,2013,San Diego County,Carlsbad,
+DLA1,Delivery Station for Los Angeles Amazon's first U.S. Delivery Station,"900 W Florence Ave. Inglewood, California. USA. 90301",,"27,700",California,Delivery Station,,"May
+2013",Los Angeles County,Inglewood,
+DLA3,Delivery Station for East Los Angeles,"5829 Smithway St, Commerce, California, USA, 90040",,"48,400",California,Delivery Station,,"June
+2013",Los Angeles County,Los Angeles,
+DLA4,Delivery Station for Burbank area,"9031 Lurline Ave, Chatsworth. California, USA, 91311",,"29,200",California,Delivery Station,,"June
+2013",Los Angeles County,Los Angeles,
+DLAS,Delivery Station for Riverside area,"6250 Sycamore Canyon Blvd., Riverside, California, USA, 92507 0771",,"36,000",California,Delivery Station,,"April
+2016",Riverside County,Riverside,
+DLA6,Delivery Station for Anaheim/Irvine area,"Santa Ana, California, USA",,-,California,Delivery Station,,"March
+2015",Orange County,Santa Ana,
+DLA7,Delivery Station for City of Industry area,"15940 Euclid Avenue, Chino, California, USA, 91748",,-,California,Delivery Station,,"March
+2017",San Bernardino County,Chino,
+DLA8,Delivery Station for Los Angeles,"2815 W. El Segundo Blvd., Hawthorne, California, USA, 90250",,170.000,California,Delivery Station,,"July
+2016",Los Angeles County,Hawthorne,
+DLA9,Delivery Station for Los Angeles May also contain a Pantry facility,"17871 Von Karman Ave, Irvine, California, USA, 92614",,"187,800",California,Delivery Station,,"February
+2017",Orange County,Irvine,
+DMI1,Delivery Station for Miami area Co-located in UFL1,"15600 NW 15th Ave, Miami Gardens. Florida, USA, 33169",,-,Florida,Delivery Station,,"March
+2015",Miami-Dade County,Miami,
+DMI2,"Delivery/Sortation Center located next to Miami International Airport.
+Regional Air Hub Facility
+Co-located in MIA6","3200 Northwest 67th Avenue, Miami, Florida, USA, 33122",,-,Florida,Delivery Station,,2017,Miami-Dade County,Miami,
+DM1,"Delivery Station for Orlando
+May also contain a Pantry facility","73 Kingspointe Pkwy, Orlando, Florida, USA, 32819",,"226,000",Florida,Delivery Station,,2016,Orange County,Orlando,
+DJA1,Delivery Station for Jacksonville area,"11084 Cabot Commerce Circle, Jacksonville, Florida, USA, 32226",,"63,000",Florida,Delivery Station,,2017,Duval County,Jacksonville,
+DAT1,Delivery Station for Atlanta area,"4800 Highlands Pkwy SE, Smyrna, Georgia, USA, 30082",,"114,000",Georgia,Delivery Station,,"August
+2016",Cobb County,Smyrna,
+DCH1,Delivery Station for Chicago,"2801 S. Western Ave, Chicago, Illinois, USA, 60608",,"150,000",Illinois,Delivery Station,,"June
+2015",Cook County,Chicago,
+DCH2,Delivery Station for Chicago,"8220 Austin Ave, Morton Grove. Illinois, USA, 60053",,"39,300",Illinois,Delivery Station,,"July
+2015",Cook County,Morton Grove,
+DCH3,Delivery Station for Chicago,"4500 Western Ave, Lisle , Illinois, USA, 60532",,"68,000",Illinois,Delivery Station,,"August
+2015",DuPage County,Lisle,
+DCH4,Delivery Station for Chicago,"401 Terrace Dr., Mundelein. Illinois, USA, 60060",,"91,000",Illinois,Delivery Station,,"April
+2017",Lake County,Mundelein,
+DDC1,Delivery Station for Washington DC Co-located in BWI6,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",,-,Virginia,Delivery Station,,2015,Fairfax County,Springfield,
+DDC2,Delivery Station for Washington DC,"861 E Gude Drive, Rockville, Maryland, USA. 20850",,"65,000",Maryland,Delivery Station,,"April
+2015",Montgomery County,Rockville,
+DB01,Delivery Station for Boston Co-located in BOS6,"201 Beacham Street, Everett (Chelsea), Massachusetts, USA, 02149-5518",,-,Massachusetts,Delivery Station,,"June
+2016",,Chelsea,
+DB02,Delivery Station for Boston,"500 Sprague St.. Dedham, Massachusetts. USA. 02026",,60.500,Massachusetts,Delivery Station,,"August
+2015",Norfolk County,Dedham,
+DDT1,Delivery Station for Detroit,"999 Chicago Road, Troy, Michigan, USA, 48083",,"26,000",Michigan,Delivery Station,,"September
+2017",Oakland County,Troy,
+DMN1,Delivery Station for Minneapolis/St. Paul,"2811 Beverly Drive , Eagen, Minnesota, USA, 55121",,"142,000",Minnesota,Delivery Station,,2016,Dakota County,Eagan,
+,Delivery Station for St. Louis,"Building 4, 441 Hazelwood Logistics Center Drive, Hazelwood, Missouri, USA, 63042",,"100,000",Missouri,Delivery Station,,Q3 2017,St. Louis County,Hazelwood,
+DLV1,Delivery Station for Las Vegas,"3165 W. Sunset Rd, Suite 102, Las Vegas, Nevada, USA, 89118",,"84,200",Nevada,Delivery Station,,2016,Clark County,Las Vegas,
+DEW1,Delivery Station for New Jersey,"2 Empire Boulevard, Moonachie, New Jersey, USA, 07074",,"75,000",New Jersey,Delivery Station,,"May
+2015",Bergen County,Moonachie,
+DAL1,Delivery Station for Albany Region,"75 Cohoes Ave., Green Island Village , New York, USA, 12183",,"64,000",New York,Delivery Station,,2017,Albany County,Green Island,
+DNY1,Delivery Station for New York City,"New York, New York, USA",,-,New York,Delivery Station,,"September
+2014",,New York,
+DNY2,Delivery Station for New York City,"630 Sullivan Rd, Elizabeth, New Jersey, USA, 07201",,"65,000",New Jersey,Delivery Station,,"September
+2015",Union County,Elizabeth,
+DP01,Delivery Station for Portland,"3610 NW St Helens Rd. Portland, Oregon, USA, 97210",,"89,500",Oregon,Delivery Station,,"January
+2016",Multnomah County,Portland,
+DPH1,Delivery Station for Philadelphia,"4219 Richmond Street, Philadelphia, Pennsylvania, USA, 19137",,65.500,Pennsylvania,Delivery Station,,2015,Philadelphia County,Philadelphia,
+"DAU1/
+TTY/
+UTX2",Delivery Station for Austin Co-located in UTX2,"2209 B Rutland Rd, Austin, Texas, USA, 78758",,-,Texas,Delivery Station,,"April
+2015",Travis County,Austin,
+DDA1,Delivery Station for Dallas,"12401 North Stemmons Fwy, Farmers Branch , Texas, USA, 75234",,"183,000",Texas,Delivery Station,,2015,Dallas County,Farmers Branch,
+DDA2,Delivery Station for Dallas,"3838 W Miller Road, Garland , Texas, USA, 75041",,"200,000",Texas,Delivery Station,,"September
+2016",Dallas County,Garland,
+DDA3,Delivery Station for Fort Worth Market Co-located in DALE,"4601 Gold Spike Drive, Fort Worth, Texas, USA, 76106",,-,Texas,Delivery Station,,"December
+2016",Tarrant County,Fort Worth,
+DH01,Delivery Station for Houston Market,"11720 N Gessner Rd, Building 5, Houston, Texas, USA, 77064",,"155,400",Texas,Delivery Station,,2016,Harris County,Houston,
+DDC1,Delivery Station for Washington DC Market Co-located in UVA1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",,-,Virginia,Delivery Station,,2017,Fairfax County,Springfield,
+,Delivery Station for Richmond VA,"4101Carolina Avenue, Richmond, Virginia, USA, 23222",,"45,000",Virginia,Delivery Station,,"September
+2017",Henrico County,Richmond,
+DSF2,Delivery Station for Seattle,"6705 E Marginal Way, Seattle . Washington. USA, 98108",,26.200,Washington,Delivery Station,,2015,King County,Seattle,
+DML1,Delivery Station for Milwaukee,"3935 W. Mitchell St., Milwaukee, Wisconsin. USA. 53125",,50.000,Wisconsin,Delivery Station,,"February
+2016",Milwaukee County,Milwaukee,
+ONT4/ ONT7,"Building 4 connects to Building 3 ONT4 is Amazon.Fresh
+ONT7 is Amazon Pantry","2020 E. Central Ave., Building 4, San Bernardino, California, USA, 92408-2606",,"514,600",California,Fresh,,"October
+2013",San Bernardino County,San Bernardino,
+LAX6,Amazon.Fresh,"5119 District Blvd, Vernon, California. USA. 90058",,"121,100",California,Fresh,,,Los Angeles County,Vernon,
+OAK6,OAK6 is Amazon.Fresh for the San Francisco Bay Area co-located within OAK4,"1555 N. Chrisman Rd., Tracy, California, USA, 95304-9370",,-,California,Fresh,,"October
+2013",San Joaquin County,Tracy,
+OAK7,OAK7 is Amazon Pantry Co-located within OAKS,"38811 Cherry Street, Newark. California, USA, 94560-4939",,-,California,Fresh,,"November
+2014",Alameda County,Newark,
+DEN6,To be confirmed as an Amazon.Fresh Distribution Center,"Crossroads Commerce Park, Building 2, 480 E. 55th Ave., Adams , Denver, Colorado, USA, 80216",,"290,700",Colorado,Fresh,,2017,Denver County,Denver,
+MIA6/ DMI2,Amazon Pantry/Delivery Station,"3200 Northwest 67th Avenue. Miami, Florida. USA, 33122",,117.200,Florida,Fresh,,2017,Miami-Dade County,Miami,
+ATL9,Amazon.Fresh for Atlanta Market,"2232 Northmont Parkway, Duluth, Georgia, USA, 30096",,"88,800",Georgia,Fresh,,"November
+2016",Gwinnett County,Duluth,
+ORD61 UIL2,Amazon.Fresh for Chicago market,"1250 N. Mittel Blvd, Wood Dale, Illinois, USA, 60191",,"82,100",Illinois,Fresh,,"July
+2016",DuPage County,Wood Dale,
+CVGS/ CVG7,CVG7 is Amazon Pantry Co-located in CVGS,"2285 Litton Lane, Hebron, Kentucky, USA, 41048-8435",,-,Kentucky,Fresh,,"September
+2013",Boone County,Hebron,
+BOS6/ DB01,Amazon.Fresh for Boston Market,"201 Beacham Street, Everett (Chelsea), Massachusetts, USA, 02149-5518",,96.600,Massachusetts,Fresh,,"June
+2015",,Chelsea,
+EWR61 EWR7,"EWR6 is Amazon Fresh
+EWR7 is Amazon Pantry","275 Omar Ave., Avenel, New Jersey, USA, 07001-2225",,"391,700",New Jersey,Fresh,,"September
+2013",Middlesex County,Woodbridge Township,
+LGA7/ LGA8,"LGA7 is Pantry;
+LGA8 is Amazon.Fresh Formerly a White Rose DC","380 Middlesex Ave, Carteret, New Jersey, USA, 07008-3446",,"810,000",New Jersey,Fresh,,"August
+2016",Middlesex County,Carteret,
+,"Amazon Pantry (FDFC)
+Formerly a Goya Distribution Center","201 Grumman Rd. W. , Bethpage, New York, USA, 11714",,"161,400",New York,Fresh,,Q4 2016 ,Nassau County,Bethpage,
+DAL6/ DDA3/ UTX7,Amazon.Fresh Distribution Center,"4601 Gold Spike Drive, Fort Worth, Texas, USA, 76106",,"558,600",Texas,Fresh,,"October
+2016",Tarrant County,Fort Worth,
+,Amazon.Fresh Distribution Center,"Fallbrook Pines Business Park, Houston, Texas, USA, 77064",,"197,900",Texas,Fresh,,2018,Harris County,Houston,
+BWI1,Amazon Pantry (FDFC),"45121 Global Plaza, Sterling, Virginia, USA, 20166",,"80,900",Virginia,Fresh,,"September
+2013",Loudoun County,Sterling,
+BWI6I UVA1,Amazon.Fresh,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",,"115,100",Virginia,Fresh,,"June
+2016 ",Fairfax County,Springfield,
+SEA6/ SEA8/ ISE2,"SEA6: Amazon Pantry Fulfillment Center
+SEA8: Amazon Fresh Fulfillment Center with perishables and frozen foods. SEA8 to move to BFI6 in Q2 2017.","1227 124th Ave NE, Building 2, Bellevue, Washington, USA, 98005-2111",,"313,300",Washington,Fresh,,"August
+2007",King County,Bellevue,
+BFI6,Amazon Fresh to replace SEA8 by Q2 2017,"20202 84th Ave S., Kent, Washington, USA, 98032",,"158,200",Washington,Fresh,,Q2 2017,King County,Kent,
+BFI7,Amazon Pantry to replace SEA6 by Q2 2017,"1901 140th Ave E, Sumner, Washington, USA, 98390",,"229,800",Washington,Fresh,,Q2 2017,Pierce County,Sumner,
+MKE7,Amazon Pantry for Milwaukee TBD,"Burlington, Wisconsin, USA",,-,Wisconsin,Fresh,,2018,Racine County,Burlington,
+PHX3,"Large Sortable & Apparel Fulfillment Center. Originally opened at 605,000 Sq. Ft and expanded by 400,000 Sq. Ft. in Dec. 2011","6835 West Buckeye Road, Phoenix, Arizona, USA, 85043- 4428","1,009,400",,Arizona,Fulfillment,September 2007,,Maricopa County,Phoenix,2007
+PHX5,"Large Non-Sortable Fulfillment Center.
+Originally opened at 800,000 Sq. Ft. and expanded to 1.2 Million Sq. Ft by adding 2 x 230,000 sq ft mezzanines in 2011.","16920 W. Commerce Dr. , Goodyear, Arizona, USA, 85338- 3620","820,400",,Arizona,Fulfillment,June 2008,,Maricopa County,Goodyear,2008
+PHX6/ TFC1,"Large Sortable Fulfillment Center in one half of the building. Small Sortable Fulfillment
+Center in the other half","4750 & 5050 West Mohave Street, Phoenix, Arizona, USA, 85043-4428","1,205,600",,Arizona,Fulfillment,October 2010,,Pinal County,Apache Junction,2010
+PHX7/ PHX8,"PHX7 is Large Non-Sortable
+PHX8 is a Sortation Center","800 N. 75th Ave, Phoenix, Arizona, USA, 85043-3101","267,
+100 1 .",,Arizona,Fulfillment,September 2011,,Maricopa County,Phoenix,2011
+PHX9,PHX9 is a Seasonal FC,"777 S 79th Ave, Tolleson, Arizona, USA, 85353","580,100",,Arizona,Fulfillment,October 2015,,Maricopa County,Tolleson,2015
+RUSH,"Large Non-Sortable FC
+Run by 3PL Menlo Logistics","7037 West Van Buren Street , Phoenix, Arizona, USA, 85043","543,400",,Arizona,Fulfillment,October 2015,,Maricopa County,Phoenix,2015
+ONT2/ ONT3,"ONT2 is Small Sortable
+ONT3 is Make on Demand Printing (MOD) 2,000 associates","1910 E. Central Ave., Building 3, San Bernardino, California, USA, 92408-0123","1,466,700",,California,Fulfillment,October 2012,,San Bernardino County,San Bernardino,2012
+ONT6,Small Sortable & Apparel Fulfillment Center 3.000 people,"24208 San Michele Rd, Moreno Valley, California, USA, 92551- 9561","1,250,000",,California,Fulfillment,August 2014,,Riverside County,Moreno Valley,2014
+ONT9,Non-Sortable Fulfillment Center Ships large items (e.g. televisions),"2125 W. San Bernardino Ave, Redlands, California, USA, 92374-5005","777,600",,California,Fulfillment,October 2014,,San Bernardino County,Redlands,2014
+LGB1,Probably an Inbound Import / Break Bulk Center,"2417 E. Carson St., Long Beach, California, USA, 90810","468,100",,California,Fulfillment,June 2016,,Los Angeles County,Long Beach,2016
+LGB4,"Larger items, such as sports equipment, patio furniture and pet food.","27517 Pioneer Ave, Redlands, California, USA, 92374-1501","750,000",,California,Fulfillment,June 2017,,San Bernardino County,Redlands,2017
+SNA6/ SNA9,Small Sortable,"5250 Goodman Way, Eastvale. California, USA, 91752-5088","1,033,200",,California,Fulfillment,October 2016,,Riverside County,Eastvale,2016
+,Large Non-Sortable,"Goodman Commerce Center, Antu-Galleano Ranch Road Exit on the 1-15, Eastvale, California, USA, 91752","1,000,000",,California,Fulfillment,2018,,Riverside County,Eastvale,2018
+LGB6,Large Non-Sortable,"20901 Krameria Avenue, Riverside. California. USA, 92508",1.000.000,,California,Fulfillment,Q4 2017,,Riverside County,Riverside,2017
+SNA7/ SNA8,Small Sortable,"555 East Orange Road, Gateway South Building 3, San Bernardino, California, USA, 92408-2453","1,102,600",,California,Fulfillment,March 2016,,Orange County,Irvine,2016
+SMF1,Small Sortable,"4900 W Elkhorn Blvd, Sacramento, California, USA, 95835-9505","855,000",,California,Fulfillment,October 2017,,Sacramento County,Sacramento,2017
+,Large Non-Sortable 1000 associates,"Near Stockton Metro Airport, Stockton, California, USA","600,000",,California,Fulfillment,2018,,San Joaquin County,Stockton,2018
+OAK3,Large Non-Sortable 1000 people,"255 Park Center Drive, Patterson, California, USA, 95363-8876","1,000,000",,California,Fulfillment,October 2013,,Stanislaus County,Patterson,2013
+OAK4/ OAK6,"OAK4 is a Small Sortable Fulfillment Center Facility includes automation / robotics (Kiva) for small sortable products
 OAK6: Amazon.Fresh
-2,500 people",Fulfillment,San Joaquin County,Tracy,2013
-California,SJC7,"188 Mountain House Parkway. Tracy, California. USA. 95377- 8906","1,001.400",October 2016,"Large Non-Sortable. Ships larger products
-such as barbecues and appliances.",Fulfillment,San Joaquin County,Tracy,2016
-California,XUSD,"1909 Zephyr Street, Stockton, California, USA, 95206","508000
-,",October 2013,"Large Non-Sortable (e.g. canoes, fishing rods)
-Outsourced to 3PL Menlo Logistics",Fulfillment,San Joaquin County,Stockton,2013
-California,SNA4,"2496 W Walnut Ave., Rialto. California, USA, 92376-3009",882.200,November 2015,Large Non-Sortable 300 people,Fulfillment,San Bernardino County,Rialto,2015
-California,XUSJ,"1590 N Tamarind Ave., Rialto, California, USA, 92376","543,400",September 2016,"Large Non-Sortable
-Run By 3PL XPO Logistics",Fulfillment,San Bernardino County,Rialto,2016
-California,,"South Orange Avenue near Central Avenue, Fresno, California. USA,","855,000",July 2018,Sortable,Fulfillment,Fresno County,Fresno,2018
-Colorado,DEN1,"14601 Grant Street, Thornton, Colorado, USA,","855,000",August 2018,"Sortable
-1,500 associates to be hired",Fulfillment,Adams County,Thornton,2018
-Colorado,DEN2,"240006 E. 19th Avenue, Aurora, Colorado, USA, 80019","1,000,000",September 2017,"Large Non-Sortable
-1,000 associates to be hired",Fulfillment,Adams County,Aurora,2017
-Connecticut,BDL1,"801 Day Hill Road, Windsor, Connecticut, USA, 06095","1,017,500",June 2015,"Large Non-Sortable
+2,500 people","1555 N. Chrisman Rd., Tracy, California, USA, 95304-9370","1,200,000",,California,Fulfillment,October 2013,,San Joaquin County,Tracy,2013
+SJC7,"Large Non-Sortable. Ships larger products
+such as barbecues and appliances.","188 Mountain House Parkway. Tracy, California. USA. 95377- 8906","1,001.400",,California,Fulfillment,October 2016,,San Joaquin County,Tracy,2016
+XUSD,"Large Non-Sortable (e.g. canoes, fishing rods)
+Outsourced to 3PL Menlo Logistics","1909 Zephyr Street, Stockton, California, USA, 95206","508000
+,",,California,Fulfillment,October 2013,,San Joaquin County,Stockton,2013
+SNA4,Large Non-Sortable 300 people,"2496 W Walnut Ave., Rialto. California, USA, 92376-3009",882.200,,California,Fulfillment,November 2015,,San Bernardino County,Rialto,2015
+XUSJ,"Large Non-Sortable
+Run By 3PL XPO Logistics","1590 N Tamarind Ave., Rialto, California, USA, 92376","543,400",,California,Fulfillment,September 2016,,San Bernardino County,Rialto,2016
+,Sortable,"South Orange Avenue near Central Avenue, Fresno, California. USA,","855,000",,California,Fulfillment,July 2018,,Fresno County,Fresno,2018
+DEN1,"Sortable
+1,500 associates to be hired","14601 Grant Street, Thornton, Colorado, USA,","855,000",,Colorado,Fulfillment,August 2018,,Adams County,Thornton,2018
+DEN2,"Large Non-Sortable
+1,000 associates to be hired","240006 E. 19th Avenue, Aurora, Colorado, USA, 80019","1,000,000",,Colorado,Fulfillment,September 2017,,Adams County,Aurora,2017
+BDL1,"Large Non-Sortable
 1500 Associates 1 M SF + 500,000 SF Mezzanine
-Ships large items like televisions",Fulfillment,Hartford County,Windsor,2015
-Connecticut,BDL2,"409 Washington Ave, North Haven. Connecticut, USA, 06473","855,000",Spring 2019,"Sortable
-1.800 associates to be hired",Fulfillment,New Haven County,North Haven,2019
-Delaware,PHL1,"1 Centerpoint Blvd, New Castle, Delaware, USA, 19720-4172","202,000",November 1997,"Large Sortable
-Amazon's 2nd DC in its network",Fulfillment,New Castle County,New Castle,1997
-Delaware,PHL7/ PHL8/ PHL9,"560 Merrimac Ave, Middletown, Delaware, USA, 19709-4652","000 035, 1
-,",October 2012,"PHL7 is Small Sortable
+Ships large items like televisions","801 Day Hill Road, Windsor, Connecticut, USA, 06095","1,017,500",,Connecticut,Fulfillment,June 2015,,Hartford County,Windsor,2015
+BDL2,"Sortable
+1.800 associates to be hired","409 Washington Ave, North Haven. Connecticut, USA, 06473","855,000",,Connecticut,Fulfillment,Spring 2019,,New Haven County,North Haven,2019
+PHL1,"Large Sortable
+Amazon's 2nd DC in its network","1 Centerpoint Blvd, New Castle, Delaware, USA, 19720-4172","202,000",,Delaware,Fulfillment,November 1997,,New Castle County,New Castle,1997
+PHL7/ PHL8/ PHL9,"PHL7 is Small Sortable
 PHL8 is a Sortation Center
-PHL9 is Make on Demand Printing (MOD) 3.000 full time associates",Fulfillment,New Castle County,Middletown,2012
-Florida,TPA1,"3350 Laurel Ridge Ave, Ruskin, Florida, USA, 33570-5526","1,017,600",Q4 2014,"Small Sortable
+PHL9 is Make on Demand Printing (MOD) 3.000 full time associates","560 Merrimac Ave, Middletown, Delaware, USA, 19709-4652","000 035, 1
+,",,Delaware,Fulfillment,October 2012,,New Castle County,Middletown,2012
+TPA1,"Small Sortable
 3,000 full time people.
 Investment $200 Million.
-Facility expanded (doubled) in 2015 - 2016",Fulfillment,Hillsborough County,Ruskin,2014
-Florida,TPA2/ LAL1,"1760 County Line Rd . , Lakeland, Florida, USA, 33811- 1808","1,000,000",August 2014,"Large Non-Sortable
+Facility expanded (doubled) in 2015 - 2016","3350 Laurel Ridge Ave, Ruskin, Florida, USA, 33570-5526","1,017,600",,Florida,Fulfillment,Q4 2014,,Hillsborough County,Ruskin,2014
+TPA2/ LAL1,"Large Non-Sortable
 Ships items such as televisions 800 full time people
-Investment $102 Million.",Fulfillment,Polk County,Lakeland,2014
-Florida,XUSF,"901 W Landstreet Rd, Suite C, Orlando, Florida, USA, 32824- 8028","180,000",July 2014,Large Non-Sortable Run by 3PL NFI,Fulfillment,Orange County,Orlando,2014
-Florida,JAX2,"12900 Pecan Park Road, Jacksonville, Florida. USA, 32218-2432",855.000,September 2017,Small Sortable,Fulfillment,Duval County,Jacksonville,2017
-Florida,JM3,"13333 103rd St., Cecil Commerce Center, Jacksonville, Florida, USA, 32221-8686","1,016,000",Q1 2018,Large Non-Sortable,Fulfillment,nan,nan,2018
-Florida,MIA1,"The Carrie Meek International Business Park, Curtiss Street & NW 42nd Ave , Opa-locka, Florida, USA, 33054","855,000",Q4 2017,Small Sortable,Fulfillment,nan,nan,2017
-Florida,MCO1,"Boggy Creek Road and Jeff Fuqua Boulevard, Orlando, Florida, USA, 32824","855,000",Q4 2018,Small Sortable,Fulfillment,Orange County,Orlando,2018
-Georgia,ATL6/ ATL5,"4200 North Commerce Dr, East Point, Georgia, USA, 30344- 5707","301,200",March 2014,ATL6: Electronic and apparel merchandise. ATLS Sortation Center,Fulfillment,Fulton County,East Point,2014
-Georgia,ATL7,"6855 Shannon Parkway, Union City, Georgia, USA, 30291","517,100",February 2015,Supplemental Fulfillment Center,Fulfillment,Fulton County,Union City,2015
-Georgia,ATL8,"2201 Thornton Road, Lithia Springs, Georgia, USA, 30122- 3895","733,200",November 2015,Specialty Fulfillment Center,Fulfillment,Douglas County,Lithia Springs,2015
-Georgia,MGE1,"650 Broadway Ave., Braselton, Georgia, USA, 30517-3002","613000
-,",October 2016,"Large Sortable : Household decor items, sporting equipment and gardening tools",Fulfillment,Jackson County,Braselton,2016
-Georgia,MGE3,"808 Hog Mountain Road, Building F, Jefferson, Georgia, USA, 30549","822,300",July 2017,Large Non-Sortable,Fulfillment,Jackson County,Jefferson,2017
-Indiana,IND1,"4255 Anson Blvd , Whitestown, Indiana, USA, 46075-4412","1,000,000",August 2008,"Large & Small Sortable
-Expanded by 400,000 Sq. Ft. in February, 2011. 2,000 associates.",Fulfillment,Boone County,Whitestown,2008
-Indiana,IND2/ IND3,"715 & 717 Airtech Parkway, Plainfield, Hendricks County, Indiana, USA, 46168","947,300",October 2008,"IND2 is Large Non-Sortable
-IND3 is BISS/Small Parts",Fulfillment,Hendricks County,Indianapolis,2008
-Indiana,IND4/ UIN1,"710 South Girls School Road, Indianapolis, Indiana, USA, 46231-1132","902,900",June 2011,"Small Sortable
-Specialty Text Book Fulfillment Center",Fulfillment,Marion County,Indianapolis,2011
-Indiana,IND5,"800 South Perry Road, Plainfield, Hendricks County, Indiana, USA, 46168-7937","925,800",August 2011,"Large Non-Sortable
-Specialty Facility for HazMat merchandise",Fulfillment,Hendricks County,Plainfield,2011
-Indiana,IND7,"9101 Orly Drive, Indianapolis, Indiana, USA, 46241-9605","695,300",September 2016,"Supplemental Fulfillment Center set up inside of an existing Pepsi building near the IND airport. IND7 stows sortable case
-transshipped from IXD (cross dock) facilities, and then ships trans-out to nearby FC's (IND1, MKE1, LEX1).",Fulfillment,nan,Indianapolis,2016
-Indiana,SDF8,"900 Patrol Road, Jeffersonville, Clark County, Indiana, USA, 47130-7761","1,200,000",October 2012,"Specialty Fulfillment Center for Apparel; shoes, watches, and jewelry",Fulfillment,Clark County,Jeffersonville,2012
-Indiana,XUSE,"5460 Industial Court Suite 300, Whitestown, Indiana, USA, 46075","624,000",October 2013,Large Non-Sortable,Fulfillment,Boone County,Whitestown,2013
-Illinois,MDW4,"201 Emerald Drive, Joliet. Illinois. USA, 60433-3281",700.000,October 2016,"Specialty Fulfillment Center for Apparel; shoes, watches. and jewelry",Fulfillment,Will County,Joliet,2016
-Illinois,STL4,"3050 Gateway Commerce Center Drive South, Edwardsville, Illinois, USA, 62025-2815","717,000",September 2016,Large Non-Sortable,Fulfillment,Madison County,Edwardsville,2016
-Illinois,STL6/ STL7,"3931 Lakeview Corporate Dr, Edwardsville, Illinois, USA, 62025-2801","769,500",September  2016,Small Sortable,Fulfillment,Madison County,Hartford,2016
-Illinois,MDW6,"1125 W Remington Blvd, Romeoville, Illinois, USA, 60446- 6529","767,000",October 2016,Large Non-Sortable,Fulfillment,Will County,Romeoville,2016
-Illinois,MDW7,"6521 W. Monee Manhattan Road, Monee, Illinois, USA, 60449-9668",856.600,October 2017,Small Sortable,Fulfillment,Will County,Monee,2017
-Illinois,MDW8,"1750 Bridge Drive, Waukegan, Illinois, USA, 60085","626,800",July 2017,Large Non-Sortable,Fulfillment,Lake County,Lake Bluff,2017
-Illinois,MDW9,"2806 Duke Parkway, Aurora, Illinois. USA, 60504","1.000,000",Q3 2018,Small Sortable,Fulfillment,DuPage County,Naperville,2018
-Illinois,,"Route 59, Aurora, Illinois, USA, 60504","400,000",2018,Large Non-Sortable,Fulfillment,nan,nan,2018
-Kansas,MKC4,"31450 W 196th Street, Gardner (Edgerton), Kansas, USA, 66021","822,100",Q4 2016,"Large Non-Sortable
-Inland port facility. Employs 1,000 associates",Fulfillment,Johnson County,Gardner,2016
-Kansas,MKC6,"6925 Riverview Ave., Kansas City, Kansas, USA, 66102-3047","856,000",July 2017,Small Sortable,Fulfillment,Wyandotte County,Kansas City,2017
-Kansas,MCI7,"27200 West 157th Street, Johnson (New Century), Kansas, USA, 66031","446,500",Q4 2016,,Fulfillment,Johnson County,New Century,2016
-Kansas,MCI8,"23100 W 43rd Street, Shawnee, Kansas, USA, 66226","80,000",2017,Official announcement not made yet. Role of facility TBD.,Fulfillment,Johnson County,Shawnee,2017
-Kentucky,CVG8,"7968 Kentucky Dr, Suites 2-3. Florence, Kentucky, USA, 41042","172,100",July 2015,"Amazon UNO
-Specialty : Small and light-weight products",Fulfillment,Boone County,Florence,2015
-Kentucky,CVG1/ PICV,"Bldg. F Park W Intl, 1155 Worldwide Blvd., Hebron, Kentucky, USA, 41048-8648","484,000",June 2005,"Specialty Fulfillment Center Apparel for Endless.com, Myhabit and Amazon Apparel",Fulfillment,Boone County,Hebron,2005
-Kentucky,CVG2,"1600 Worldwide Blvd., Hebron, Kentucky, USA, 41048","543,000",December 2005,Non-Sortable and Non-Sortable Returns,Fulfillment,Boone County,Hebron,2005
-Kentucky,LEX1/ LEX3,"1850 Mercer Drive, Lexington, Kentucky, USA, 40511","650,000",November 2000,"LEX1: Small Sortable
-LEX3: Printing Make on Demand (MOD)",Fulfillment,Fayette County,Lexington,2000
-Kentucky,LEX2,"172 Trade St., Lexington, Kentucky, USA, 40511","380,000",June 2006,Warehouse Deals and Returns Center,Fulfillment,Fayette County,Lexington,2006
-Kentucky,SDF1,"1050 South Columbia Avenue , Campbellsville, Kentucky, USA, 42718-1337","727,000",May 1999,"Large Sortable
-Expanded from 570,000 Sq. Ft. in 1999",Fulfillment,Taylor County,Campbellsville,1999
-Kentucky,SDF2,"4360 Robards Lane, Louisville, Kentucky, USA, 40218","110,000",September 2005,"Specialty FC: High Value watches, and jewelry",Fulfillment,Jefferson County,Watterson Park,2005
-Kentucky,SDF4,"376 Zappos.com Blvd, Shepherdsville, Kentucky, USA, 40165","823,000",September 2005,Specialty FC: Apparel /Footwear support Zappos.com,Fulfillment,Bullitt County,Shepherdsville,2005
-Kentucky,SDF6,"271 Omega Pkwy, Shepherdsville, Kentucky, USA, 40165","118,000",April 2012,Specialty FC: Apparel /Footwear support Zappos.com,Fulfillment,Bullitt County,Shepherdsville,2012
-Kentucky,SDF7,"300 Omicron Court, Cedar Grove Business Park, Shepherdsville, Kentucky, USA, 40165","281,000",April 2012,Specialty FC: Apparel /Footwear,Fulfillment,nan,nan,2012
-Kentucky,SDF9,"100 W. Thomas P. Echols Lane, St. 3, Shepherdsville, Kentucky, USA, 40165-7594","600,000",October 2013,Returns Center Apparel/Footwear,Fulfillment,Bullitt County,Shepherdsville,2013
-Kentucky,IVSA,"4620 Olympic Blvd, Erlanger, Kentucky, USA, 41018","109,200",August 2015,Specialty Small and Light Products,Fulfillment,nan,Erlanger,2015
-Maryland,BWIO/ BWI2,"2010 Broening Highway, Baltimore, Maryland, USA, 21224-6027","1,017,600",March 2015,Small Sortable,Fulfillment,nan,Baltimore,2015
-Maryland,"XUSD
-XUSM","610 Chelsea Rd, Aberdeen, Maryland, USA, 21001","571,800",October 2016,"Large Non-Sortable
-Run by 3PL XPO Logistics",Fulfillment,Harford County,Aberdeen,2016
-Maryland,MDT2,"600 Principio Parkway West, Cecil, North East. Maryland, USA, 21901",1.148.900,September 2017,Large Non-Sortable,Fulfillment,Cecil County,North East,2017
-Massachusetts,BOS7,"1180 Innovation Way, Fall River, Massachusetts, USA, 02722- 4766","1,000,000",October 2016,Small Sortable,Fulfillment,Bristol County,Fall River,2016
-Michigan,DTW1,"39000 Amrhein Rd., Livonia. Michigan. USA, 48150",1.009.000,October 2017,Large Non-Sortable,Fulfillment,Wayne County,Livonia,2017
-Michigan,DTW2,"Junction of Wick Road & Vining Road, Romulus, Michigan, USA, 48174","855,000",2018,Small Sortable,Fulfillment,Wayne County,Romulus,2018
-Michigan,DTW3,"23 Mile and Mound Roads, Shelby Township, Michigan, USA, 48316","1,000,000",2018,Large Non-Sortable,Fulfillment,Macomb County,Shelby charter Township,2018
-Minnesota,MSP1,"2601 4th Ave E, Shakopee, Minnesota, USA, 55379-1726","820,000",July 2016,"Small Sortable
-$220 Million facility 2,000 associates",Fulfillment,Scott County,Shakopee,2016
-Nevada,LAS2,"3837 Bay Lake Trail, Suite 111, North Las Vegas, Nevada, USA, 89030","283,900",October 2008,Amazon Pantry (FDFC) Return Center,Fulfillment,Clark County,North Las Vegas,2008
-Nevada,LASE,"4550 Nexus Way, North Las Vegas, Nevada, USA, 89115","813,100",Summer 2017,Large Non-Sortable,Fulfillment,Clark County,North Las Vegas,2017
-Nevada,RNO3,"555 Milan Dr, Sparks, Nevada, USA, 89434",566.900,November 2010,"Diaper.com Fulfillment Center that was owned by Quidsi Inc. which Amazon acquired in November, 2010",Fulfillment,Storey County,Sparks,2010
-Nevada,RNO4,"8000 North Virginia Street , Reno, Nevada, USA, 89506","634,000",January 2015,"Large and Small Sortable
-Facility replaced the Fernley, Nevada FC",Fulfillment,Washoe County,Reno,2015
-New Hampshire,BOS1,"10 State Street, Nashua. New Hampshire, USA, 03063","63,800",July 2007,Small Sortable (FDFC),Fulfillment,Hillsborough County,Nashua,2007
-New Jersey,EWR4,"50 New Canton Way, Robbinsville, New Jersey, USA, 08691-2350","1,200,000",June 2014,Small Sortable 2500 associates,Fulfillment,Mercer County,Robbinsville,2014
-New Jersey,EWR8,"698 Route 46 West, Teterboro. New Jersey, USA, 07608",617.000,June 2017,Large Non-Sortable,Fulfillment,Bergen County,Ridgefield,2017
-New Jersey,"LGA6/
-EWR9","8003 Industrial Ave, Building A, Carteret, New Jersey, USA, 07008-3529","1,064,500",August 2016,"Small Sortable
-Formerly a Wakefern Distribution Center",Fulfillment,Middlesex County,Carteret,2016
-New Jersey,LGA9,"2170 State Route 27, Edison. New Jersey, USA, 08817-3332",923.000,Q4 2017,Small Sortable,Fulfillment,Middlesex County,Edison,2017
-New Jersey,TEB6,"22 Hightstown-Cranbury Station Road, Cranbury Township, New Jersey, USA, 08512","930,000",Q2 2017,Large Non-Sortable,Fulfillment,Middlesex County,Cranbury Township,2017
-New Jersey,TEB3,"2651 Oldmans Creek Rd, Swedesboro, Logan Township, New Jersey, USA, 08085","1,181,200",Q2 2017,Large Non-Sortable,Fulfillment,Gloucester County,Logan Township,2017
-New York,,"656 Gulf Ave, Staten Island, New York, USA, 10314","855,000",Q3 2018,Small Sortable,Fulfillment,Richmond County,nan,2018
-North Carolina,CLT2,"Macedonia Church Road. Kannapolis, North Carolina. USA, 28027","1,000,000",2019,Large Non-Sortable,Fulfillment,Cabarrus County,Concord,2019
-Ohio,CMH1/ CMHO,"11903 National Rd SW, Etna, Ohio, USA, 43062-7793","855000
-,",September 2016,"Small Sortable; Specialty Small and Light 3000 associates
-Investment $90 Million",Fulfillment,Licking County,Etna,2016
-Ohio,CMH2,"6050 Gateway Court, Obetz, Ohio, USA, 43125","1,000,000",December 2016,"Large Sortable
-New FC announced for Ohio. 500 associates",Fulfillment,Franklin County,Obetz,2016
-Ohio,CLE1,"20801 N Miles Rd, North Randall, Cleveland, Ohio, USA, 44128","855,000",Q2 2018,"Small Sortable
-New FC for Ohio to be confirmed by Amazon",Fulfillment,Cuyahoga County,North Randall,2018
-Ohio,,"Monroe, Ohio, USA, 45036","1,000.000",2018,"Large Non-Sortable
-No ETA date announced yet",Fulfillment,Butler County,Monroe,2018
-Oregon,PDX1,"NW Swigert Way, Troutdale Reynolds Industrial Park, Troutdale, Oregon, USA, 97060","855,000",July 2018,"Small Sortable
-No ETA date announced yet",Fulfillment,nan,nan,2018
-Oregon,PD X2,"4775 Depot Court, Salem, Oregon, USA, 97317","1,000,000",July 2018,"Large Non-Sortable
-No ETA date announced yet",Fulfillment,Marion County,Salem,2018
-Oregon,PDX3,"Portland, Oregon, USA, 97060","1,000,000",2018,"Large Non-Sortable
-No ETA date announced yet",Fulfillment,Multnomah County,Troutdale,2018
-Pennsylvania,"ABE1/
-ABE2","705 Boulder Drive, Breinigsville, Pennsylvania, USA, 18031",600.000,July 2010,Large Sortable,Fulfillment,Lehigh County,Breinigsville,2010
-Pennsylvania,ABE3,"650 Boulder Drive , Breinigsville, Pennsylvania, USA, 18031-1536","483,000",June 2011,Small Sortable (Books & Printed Media),Fulfillment,Lehigh County,Breinigsville,2011
-Pennsylvania,AVP2/ AVP3,"298 1st Avenue, Gouldsboro, Pennsylvania, USA, 18424-9464","1,250,000",November 2010 ,"Diaper.com Fulfillment Center that was owned by Quidsi Inc. which Amazon acquired in November, 2010",Fulfillment,nan,nan,2010
-Pennsylvania,PHL4,"21 Roadway Drive, Carlisle, Pennsylvania, USA, 17015","558,700",September 2010,Large Non-Sortable,Fulfillment,Cumberland County,Carlisle,2010
-Pennsylvania,PHLS,"500 McCarthy Dr., Lewisberry, Pennsylvania, USA, 17339-8725","750,000",August 2010,Large Non-Sortable,Fulfillment,York County,Lewisberry,2010
-Pennsylvania,PHL6,"675 Allen Rd. , Carlisle, Pennsylvania, USA, 17015-7788","1,206,500",August 2010,Large Non-Sortable,Fulfillment,Cumberland County,Carlisle,2010
-Pennsylvania,ABES,"6455 Allentown Boulevard, Harrisburg, Pennsylvania, USA, 17112","200,000",2014,Large Non-Sortable 3PL NFI Industries,Fulfillment,Dauphin County,Harrisburg,2014
-Pennsylvania,XUSC,"40 Logistics Drive, Carlisle, Pennsylvania, USA, 17013","421,200",May 2013,"Large Non-Sortable (e.g. fishing rods, canoes, etc.)",Fulfillment,Cumberland County,Carlisle,2013
-Pennsylvania,XUSG,"9645 West Hills Ct, Kutztown, Pennsylvania. USA, 19530-8644","413,800",May 2014,Large Non-Sortable 3PL NFI Industries,Fulfillment,Lehigh County,Kutztown,2014
-Pennsylvania,MDT1,"2 Ames Drive, Building #2, Carlisle, Pennsylvania, USA, 17015","700,000",January 2015,Large Non-Sortable,Fulfillment,Cumberland County,Carlisle,2015
-Pennsylvania,ABE4,"1610 Van Buren Road, Easton, Pennsylvania, USA, 18045-7807","1,106,400",November 2016,Large Sortable,Fulfillment,Northampton County,Easton,2016
-Pennsylvania,AVP8,"250 Enterprise Way, Pittston, Pennsylvania, USA, 18640-5000","399,500",November 2016,Replaces AVP6 which was closed in July 2016. Supplemental Fulfillment Center.,Fulfillment,Luzerne County,Pittston,2016
-South Carolina,CAE1,"4400 12 Street Extension, West Columbia (Cayce), South Carolina, USA, 29172-3300","1,250,000",October 2011,Small Sortable,Fulfillment,Lexington County,West Columbia,2011
-South Carolina,CAE3,"222 Old Wire Rd, West Columbia, South Carolina, USA, 29172-2862","120,000",February 2017,"Printing Make on Demand (MOD): Books, CDs, DVDs. Replaces the N. Charleston Facility CHS1 which was closed in Feb 2017",Fulfillment,Lexington County,West Columbia,2017
-South Carolina,GSP1,"402 John Dodd Rd, Spartanburg. South Carolina, USA, 29303- 6312","1,016,100",September 2012,Large Non-Sortable,Fulfillment,Spartanburg County,Spartanburg,2012
-Tennessee,BNA1,"14840 Central Pike, Suite 190, Lebanon, Tennessee, USA, 37090-8119","449,000",September 2011,Large Non-Sortable,Fulfillment,Wilson County,Lebanon,2011
-Tennessee,BNA2,"500 Duke Dr, Lebanon, Tennessee, USA, 37087-8123","1,200,000",February 2013,Large Non-Sortable,Fulfillment,Wilson County,Lebanon,2013
-Tennessee,BNA3,"2020 Joe B Jackson Pkwy, Murfreesboro, Tennessee, USA, 37127-7792","1,000,000",September 2012,Large Sortable,Fulfillment,Rutherford County,Murfreesboro,2012
-Tennessee,CHA1,"7200 Discovery Drive, Chattanooga, Tennessee, USA, 37416-1749","1,020,000",September 2011,Large Sortable,Fulfillment,Hamilton County,Chattanooga,2011
-Tennessee,CHA2,"225 Infinity Dr NW, Charleston, Tennessee, USA, 37310-1400","1,200,000",September 2011,"Large Non-Sortable (e.g. coffee makers, lawn tractors, barbecue grills, and water heaters along with bulk items)",Fulfillment,Bradley County,Charleston,2011
-Texas,DFW6,"940 W. Bethel Road , Coppell. Texas, USA. 75019-4424","1,000,000",October 2013,"Large Non-Sortable (televisions, furniture and electronics)",Fulfillment,Dallas County,Coppell,2013
-Texas,DFW7,"700 Westport Parkway, (Haslet) Fort Worth, Texas, USA, 76177- 4513","1,100,000",October 2013,"Small Sortable (Ships smaller items like books, small electronics and DVDs) Facility budgeted at $100 Million.",Fulfillment,Tarrant County,Fort Worth,2013
-Texas,FTW3/ FIVV4,"15201 Heritage Parkway, Fort Worth, Texas, USA, 76177-2517","1,000,000",2016,"FTW3 is the VNA side of the FC
-FTW4 is the robotics side (AR=Amazon Robotics) Small Sortable FC",Fulfillment,Denton County,Fort Worth,2016
-Texas,XUSG,"14900 Frye Road, Fort Worth, Texas, USA, 76155","495,000",July 2014,"Large Non-Sortable (e.g. canoes, fishing rods)
-Fulfillment center is outsourced to 3PL Menlo Logistics",Fulfillment,Tarrant County,Fort Worth,2014
-Texas,SAT1,"6000 Enterprise Avenue, Schertz, Texas, USA, 78154- 1461","1,260,000",Fall 2013,"Large Non-Sortable
-Schertz is nearby San Antonio, TX. Facility Investment $166 Million.",Fulfillment,Guadalupe County,Schertz,2013
-Texas,SAT2,"1401 East McCarty Lane, San Marcos, Texas, USA, 78666- 8969","855,000",September 2016,"Small Sortable
-Facility Investment $190 Million",Fulfillment,Hays County,San Marcos,2016
-Texas,HOU2,"10550 Ella Street, Houston. Texas, USA, 77038-2324","855,000",Q4 2017,Small Sortable,Fulfillment,Harris County,Houston,2017
-Texas,HOU3,"Woods Road and Interstate 10, Katy, Texas, USA, 77423","1,000,000",2018,Large Non-Sortable,Fulfillment,Harris County,Houston,2018
-Texas,FTW2,"2701 W. Bethel Road. Coppell. Texas. USA, 75261-4015",1.000.000,October 2016,Large Non-Sortable,Fulfillment,Dallas County,Coppell,2016
-Texas,FTW7,"944 W. Sandy Lake Road, Coppell, Texas, USA, 75019","604,800",November 2017,Large Non-Sortable,Fulfillment,Dallas County,Coppell,2017
-Texas,FTW8,"3351 Balmorhea Dr. Dallas, Texas, USA, 75241",500.000,November 2017,Supplemental Fulfillment Center Sq Ft an Estimate Only,Fulfillment,Dallas County,Dallas,2017
-Utah,SLC1,"777 N. 5600 West, Salt Lake City, Utah, USA, 84116","855,000",2018,"Sortable
-1,000 associates to be hired",Fulfillment,Salt Lake County,Salt Lake City,2018
-Virginia,RIC1,"5000 Commerce Way, Petersburg, Virginia, USA, 23803 6917","1,100,000",October 2012,"Large Non-Sortable
+Investment $102 Million.","1760 County Line Rd . , Lakeland, Florida, USA, 33811- 1808","1,000,000",,Florida,Fulfillment,August 2014,,Polk County,Lakeland,2014
+XUSF,Large Non-Sortable Run by 3PL NFI,"901 W Landstreet Rd, Suite C, Orlando, Florida, USA, 32824- 8028","180,000",,Florida,Fulfillment,July 2014,,Orange County,Orlando,2014
+JAX2,Small Sortable,"12900 Pecan Park Road, Jacksonville, Florida. USA, 32218-2432",855.000,,Florida,Fulfillment,September 2017,,Duval County,Jacksonville,2017
+JM3,Large Non-Sortable,"13333 103rd St., Cecil Commerce Center, Jacksonville, Florida","1,016,000",,Florida,Fulfillment,Q1 2018,,Duval County,Jacksonville,2018
+MIA1,Small Sortable,"Curtiss Street & NW 42nd Ave , Opa-locka, Florida, USA, 33054","855,000",,Florida,Fulfillment,Q4 2017,,Miami-Dade County,Opa-locka,2017
+MCO1,Small Sortable,"Boggy Creek Road and Jeff Fuqua Boulevard, Orlando, Florida, USA, 32824","855,000",,Florida,Fulfillment,Q4 2018,,Orange County,Orlando,2018
+ATL6/ ATL5,ATL6: Electronic and apparel merchandise. ATLS Sortation Center,"4200 North Commerce Dr, East Point, Georgia, USA, 30344- 5707","301,200",,Georgia,Fulfillment,March 2014,,Fulton County,East Point,2014
+ATL7,Supplemental Fulfillment Center,"6855 Shannon Parkway, Union City, Georgia, USA, 30291","517,100",,Georgia,Fulfillment,February 2015,,Fulton County,Union City,2015
+ATL8,Specialty Fulfillment Center,"2201 Thornton Road, Lithia Springs, Georgia, USA, 30122- 3895","733,200",,Georgia,Fulfillment,November 2015,,Douglas County,Lithia Springs,2015
+MGE1,"Large Sortable : Household decor items, sporting equipment and gardening tools","650 Broadway Ave., Braselton, Georgia, USA, 30517-3002","613000
+,",,Georgia,Fulfillment,October 2016,,Jackson County,Braselton,2016
+MGE3,Large Non-Sortable,"808 Hog Mountain Road, Building F, Jefferson, Georgia, USA, 30549","822,300",,Georgia,Fulfillment,July 2017,,Jackson County,Jefferson,2017
+IND1,"Large & Small Sortable
+Expanded by 400,000 Sq. Ft. in February, 2011. 2,000 associates.","4255 Anson Blvd , Whitestown, Indiana, USA, 46075-4412","1,000,000",,Indiana,Fulfillment,August 2008,,Boone County,Whitestown,2008
+IND2/ IND3,"IND2 is Large Non-Sortable
+IND3 is BISS/Small Parts","715 & 717 Airtech Parkway, Plainfield, Hendricks County, Indiana, USA, 46168","947,300",,Indiana,Fulfillment,October 2008,,Hendricks County,Indianapolis,2008
+IND4/ UIN1,"Small Sortable
+Specialty Text Book Fulfillment Center","710 South Girls School Road, Indianapolis, Indiana, USA, 46231-1132","902,900",,Indiana,Fulfillment,June 2011,,Marion County,Indianapolis,2011
+IND5,"Large Non-Sortable
+Specialty Facility for HazMat merchandise","800 South Perry Road, Plainfield, Hendricks County, Indiana, USA, 46168-7937","925,800",,Indiana,Fulfillment,August 2011,,Hendricks County,Plainfield,2011
+IND7,"Supplemental Fulfillment Center set up inside of an existing Pepsi building near the IND airport. IND7 stows sortable case
+transshipped from IXD (cross dock) facilities, and then ships trans-out to nearby FC's (IND1, MKE1, LEX1).","9101 Orly Drive, Indianapolis, Indiana, USA, 46241-9605","695,300",,Indiana,Fulfillment,September 2016,,,Indianapolis,2016
+SDF8,"Specialty Fulfillment Center for Apparel; shoes, watches, and jewelry","900 Patrol Road, Jeffersonville, Clark County, Indiana, USA, 47130-7761","1,200,000",,Indiana,Fulfillment,October 2012,,Clark County,Jeffersonville,2012
+XUSE,Large Non-Sortable,"5460 Industial Court Suite 300, Whitestown, Indiana, USA, 46075","624,000",,Indiana,Fulfillment,October 2013,,Boone County,Whitestown,2013
+MDW4,"Specialty Fulfillment Center for Apparel; shoes, watches. and jewelry","201 Emerald Drive, Joliet. Illinois",700.000,,Illinois,Fulfillment,October 2016,,Will County,Joliet,2016
+STL4,Large Non-Sortable,"3050 Gateway Commerce Center Drive South, Edwardsville, Illinois, USA, 62025-2815","717,000",,Illinois,Fulfillment,September 2016,,Madison County,Edwardsville,2016
+STL6/ STL7,Small Sortable,"3931 Lakeview Corporate Dr, Edwardsville, Illinois, USA, 62025-2801","769,500",,Illinois,Fulfillment,September  2016,,Madison County,Hartford,2016
+MDW6,Large Non-Sortable,"1125 W Remington Blvd, Romeoville, Illinois, USA, 60446- 6529","767,000",,Illinois,Fulfillment,October 2016,,Will County,Romeoville,2016
+MDW7,Small Sortable,"6521 W. Monee Manhattan Road, Monee, Illinois, USA, 60449-9668",856.600,,Illinois,Fulfillment,October 2017,,Will County,Monee,2017
+MDW8,Large Non-Sortable,"1750 Bridge Drive, Waukegan, Illinois, USA, 60085","626,800",,Illinois,Fulfillment,July 2017,,Lake County,Lake Bluff,2017
+MDW9,Small Sortable,"2806 Duke Parkway, Aurora, Illinois. USA, 60504","1.000,000",,Illinois,Fulfillment,Q3 2018,,DuPage County,Naperville,2018
+,Large Non-Sortable,"Route 59, Aurora, Illinois, USA, 60504","400,000",,Illinois,Fulfillment,2018,,,,2018
+MKC4,"Large Non-Sortable
+Inland port facility. Employs 1,000 associates","31450 W 196th Street, Gardner (Edgerton), Kansas, USA, 66021","822,100",,Kansas,Fulfillment,Q4 2016,,Johnson County,Gardner,2016
+MKC6,Small Sortable,"6925 Riverview Ave., Kansas City, Kansas, USA, 66102-3047","856,000",,Kansas,Fulfillment,July 2017,,Wyandotte County,Kansas City,2017
+MCI7,,"27200 West 157th Street, Johnson (New Century), Kansas, USA, 66031","446,500",,Kansas,Fulfillment,Q4 2016,,Johnson County,New Century,2016
+MCI8,Official announcement not made yet. Role of facility TBD.,"23100 W 43rd Street, Shawnee, Kansas, USA, 66226","80,000",,Kansas,Fulfillment,2017,,Johnson County,Shawnee,2017
+CVG8,"Amazon UNO
+Specialty : Small and light-weight products","7968 Kentucky Dr, Suites 2-3. Florence, Kentucky, USA, 41042","172,100",,Kentucky,Fulfillment,July 2015,,Boone County,Florence,2015
+CVG1/ PICV,"Specialty Fulfillment Center Apparel for Endless.com, Myhabit and Amazon Apparel","Bldg. F Park W Intl, 1155 Worldwide Blvd., Hebron, Kentucky, USA, 41048-8648","484,000",,Kentucky,Fulfillment,June 2005,,Boone County,Hebron,2005
+CVG2,Non-Sortable and Non-Sortable Returns,"1600 Worldwide Blvd., Hebron, Kentucky, USA, 41048","543,000",,Kentucky,Fulfillment,December 2005,,Boone County,Hebron,2005
+LEX1/ LEX3,"LEX1: Small Sortable
+LEX3: Printing Make on Demand (MOD)","1850 Mercer Drive, Lexington, Kentucky, USA, 40511","650,000",,Kentucky,Fulfillment,November 2000,,Fayette County,Lexington,2000
+LEX2,Warehouse Deals and Returns Center,"172 Trade St., Lexington, Kentucky, USA, 40511","380,000",,Kentucky,Fulfillment,June 2006,,Fayette County,Lexington,2006
+SDF1,"Large Sortable
+Expanded from 570,000 Sq. Ft. in 1999","1050 South Columbia Avenue , Campbellsville, Kentucky, USA, 42718-1337","727,000",,Kentucky,Fulfillment,May 1999,,Taylor County,Campbellsville,1999
+SDF2,"Specialty FC: High Value watches, and jewelry","4360 Robards Lane, Louisville, Kentucky, USA, 40218","110,000",,Kentucky,Fulfillment,September 2005,,Jefferson County,Watterson Park,2005
+SDF4,Specialty FC: Apparel /Footwear support Zappos.com,"376 Zappos.com Blvd, Shepherdsville, Kentucky, USA, 40165","823,000",,Kentucky,Fulfillment,September 2005,,Bullitt County,Shepherdsville,2005
+SDF6,Specialty FC: Apparel /Footwear support Zappos.com,"271 Omega Pkwy, Shepherdsville, Kentucky, USA, 40165","118,000",,Kentucky,Fulfillment,April 2012,,Bullitt County,Shepherdsville,2012
+SDF7,Specialty FC: Apparel /Footwear,"300 Omicron Court, Cedar Grove Business Park, Shepherdsville, Kentucky, USA, 40165","281,000",,Kentucky,Fulfillment,April 2012,,Bullitt County,Shepherdsville,2012
+SDF9,Returns Center Apparel/Footwear,"100 W. Thomas P. Echols Lane, St. 3, Shepherdsville, Kentucky, USA, 40165-7594","600,000",,Kentucky,Fulfillment,October 2013,,Bullitt County,Shepherdsville,2013
+IVSA,Specialty Small and Light Products,"4620 Olympic Blvd, Erlanger, Kentucky, USA, 41018","109,200",,Kentucky,Fulfillment,August 2015,,,Erlanger,2015
+BWIO/ BWI2,Small Sortable,"2010 Broening Highway, Baltimore, Maryland, USA, 21224-6027","1,017,600",,Maryland,Fulfillment,March 2015,,,Baltimore,2015
+"XUSD
+XUSM","Large Non-Sortable
+Run by 3PL XPO Logistics","610 Chelsea Rd, Aberdeen, Maryland, USA, 21001","571,800",,Maryland,Fulfillment,October 2016,,Harford County,Aberdeen,2016
+MDT2,Large Non-Sortable,"600 Principio Parkway West, Cecil, North East. Maryland, USA, 21901",1.148.900,,Maryland,Fulfillment,September 2017,,Cecil County,North East,2017
+BOS7,Small Sortable,"1180 Innovation Way, Fall River, Massachusetts, USA, 02722- 4766","1,000,000",,Massachusetts,Fulfillment,October 2016,,Bristol County,Fall River,2016
+DTW1,Large Non-Sortable,"39000 Amrhein Rd., Livonia. Michigan. USA, 48150",1.009.000,,Michigan,Fulfillment,October 2017,,Wayne County,Livonia,2017
+DTW2,Small Sortable,"Junction of Wick Road & Vining Road, Romulus, Michigan, USA, 48174","855,000",,Michigan,Fulfillment,2018,,Wayne County,Romulus,2018
+DTW3,Large Non-Sortable,"23 Mile and Mound Roads, Shelby Township, Michigan, USA, 48316","1,000,000",,Michigan,Fulfillment,2018,,Macomb County,Shelby charter Township,2018
+MSP1,"Small Sortable
+$220 Million facility 2,000 associates","2601 4th Ave E, Shakopee, Minnesota, USA, 55379-1726","820,000",,Minnesota,Fulfillment,July 2016,,Scott County,Shakopee,2016
+LAS2,Amazon Pantry (FDFC) Return Center,"3837 Bay Lake Trail, Suite 111, North Las Vegas, Nevada, USA, 89030","283,900",,Nevada,Fulfillment,October 2008,,Clark County,North Las Vegas,2008
+LASE,Large Non-Sortable,"4550 Nexus Way, North Las Vegas, Nevada, USA, 89115","813,100",,Nevada,Fulfillment,Summer 2017,,Clark County,North Las Vegas,2017
+RNO3,"Diaper.com Fulfillment Center that was owned by Quidsi Inc. which Amazon acquired in November, 2010","555 Milan Dr, Sparks, Nevada, USA, 89434",566.900,,Nevada,Fulfillment,November 2010,,Storey County,Sparks,2010
+RNO4,"Large and Small Sortable
+Facility replaced the Fernley, Nevada FC","8000 North Virginia Street , Reno, Nevada, USA, 89506","634,000",,Nevada,Fulfillment,January 2015,,Washoe County,Reno,2015
+BOS1,Small Sortable (FDFC),"10 State Street, Nashua. New Hampshire, USA, 03063","63,800",,New Hampshire,Fulfillment,July 2007,,Hillsborough County,Nashua,2007
+EWR4,Small Sortable 2500 associates,"50 New Canton Way, Robbinsville, New Jersey, USA, 08691-2350","1,200,000",,New Jersey,Fulfillment,June 2014,,Mercer County,Robbinsville,2014
+EWR8,Large Non-Sortable,"698 Route 46 West, Teterboro. New Jersey, USA, 07608",617.000,,New Jersey,Fulfillment,June 2017,,Bergen County,Ridgefield,2017
+"LGA6/
+EWR9","Small Sortable
+Formerly a Wakefern Distribution Center","8003 Industrial Ave, Building A, Carteret, New Jersey, USA, 07008-3529","1,064,500",,New Jersey,Fulfillment,August 2016,,Middlesex County,Carteret,2016
+LGA9,Small Sortable,"2170 State Route 27, Edison. New Jersey, USA, 08817-3332",923.000,,New Jersey,Fulfillment,Q4 2017,,Middlesex County,Edison,2017
+TEB6,Large Non-Sortable,"22 Hightstown-Cranbury Station Road, Cranbury Township, New Jersey, USA, 08512","930,000",,New Jersey,Fulfillment,Q2 2017,,Middlesex County,Cranbury Township,2017
+TEB3,Large Non-Sortable,"2651 Oldmans Creek Rd, Swedesboro, Logan Township, New Jersey, USA, 08085","1,181,200",,New Jersey,Fulfillment,Q2 2017,,Gloucester County,Logan Township,2017
+,Small Sortable,"656 Gulf Ave, Staten Island, New York, USA, 10314","855,000",,New York,Fulfillment,Q3 2018,,Richmond County,,2018
+CLT2,Large Non-Sortable,"Macedonia Church Road. Kannapolis, North Carolina. USA, 28027","1,000,000",,North Carolina,Fulfillment,2019,,Cabarrus County,Concord,2019
+CMH1/ CMHO,"Small Sortable; Specialty Small and Light 3000 associates
+Investment $90 Million","11903 National Rd SW, Etna, Ohio, USA, 43062-7793","855000
+,",,Ohio,Fulfillment,September 2016,,Licking County,Etna,2016
+CMH2,"Large Sortable
+New FC announced for Ohio. 500 associates","6050 Gateway Court, Obetz, Ohio, USA, 43125","1,000,000",,Ohio,Fulfillment,December 2016,,Franklin County,Obetz,2016
+CLE1,"Small Sortable
+New FC for Ohio to be confirmed by Amazon","20801 N Miles Rd, North Randall, Cleveland, Ohio, USA, 44128","855,000",,Ohio,Fulfillment,Q2 2018,,Cuyahoga County,North Randall,2018
+,"Large Non-Sortable
+No ETA date announced yet","Monroe, Ohio, USA, 45036","1,000.000",,Ohio,Fulfillment,2018,,Butler County,Monroe,2018
+PDX1,"Small Sortable
+No ETA date announced yet",Troutdale Reynolds Industrial Park,"855,000",,Oregon,Fulfillment,July 2018,,Multnomah County,Troutdale,2018
+PD X2,"Large Non-Sortable
+No ETA date announced yet","4775 Depot Court, Salem, Oregon, USA, 97317","1,000,000",,Oregon,Fulfillment,July 2018,,Marion County,Salem,2018
+PDX3,"Large Non-Sortable
+No ETA date announced yet","Portland, Oregon, USA, 97060","1,000,000",,Oregon,Fulfillment,2018,,Multnomah County,Troutdale,2018
+"ABE1/
+ABE2",Large Sortable,"705 Boulder Drive, Breinigsville, Pennsylvania, USA, 18031",600.000,,Pennsylvania,Fulfillment,July 2010,,Lehigh County,Breinigsville,2010
+ABE3,Small Sortable (Books & Printed Media),"650 Boulder Drive , Breinigsville, Pennsylvania, USA, 18031-1536","483,000",,Pennsylvania,Fulfillment,June 2011,,Lehigh County,Breinigsville,2011
+AVP2/ AVP3,"Diaper.com Fulfillment Center that was owned by Quidsi Inc. which Amazon acquired in November, 2010","298 1st Avenue, Gouldsboro, Pennsylvania","1,250,000",,Pennsylvania,Fulfillment,November 2010 ,,Lackawanna County,,2010
+PHL4,Large Non-Sortable,"21 Roadway Drive, Carlisle, Pennsylvania, USA, 17015","558,700",,Pennsylvania,Fulfillment,September 2010,,Cumberland County,Carlisle,2010
+PHLS,Large Non-Sortable,"500 McCarthy Dr., Lewisberry, Pennsylvania, USA, 17339-8725","750,000",,Pennsylvania,Fulfillment,August 2010,,York County,Lewisberry,2010
+PHL6,Large Non-Sortable,"675 Allen Rd. , Carlisle, Pennsylvania, USA, 17015-7788","1,206,500",,Pennsylvania,Fulfillment,August 2010,,Cumberland County,Carlisle,2010
+ABES,Large Non-Sortable 3PL NFI Industries,"6455 Allentown Boulevard, Harrisburg, Pennsylvania, USA, 17112","200,000",,Pennsylvania,Fulfillment,2014,,Dauphin County,Harrisburg,2014
+XUSC,"Large Non-Sortable (e.g. fishing rods, canoes, etc.)","40 Logistics Drive, Carlisle, Pennsylvania, USA, 17013","421,200",,Pennsylvania,Fulfillment,May 2013,,Cumberland County,Carlisle,2013
+XUSG,Large Non-Sortable 3PL NFI Industries,"9645 West Hills Ct, Kutztown, Pennsylvania. USA, 19530-8644","413,800",,Pennsylvania,Fulfillment,May 2014,,Lehigh County,Kutztown,2014
+MDT1,Large Non-Sortable,"2 Ames Drive, Building #2, Carlisle, Pennsylvania, USA, 17015","700,000",,Pennsylvania,Fulfillment,January 2015,,Cumberland County,Carlisle,2015
+ABE4,Large Sortable,"1610 Van Buren Road, Easton, Pennsylvania, USA, 18045-7807","1,106,400",,Pennsylvania,Fulfillment,November 2016,,Northampton County,Easton,2016
+AVP8,Replaces AVP6 which was closed in July 2016. Supplemental Fulfillment Center.,"250 Enterprise Way, Pittston, Pennsylvania, USA, 18640-5000","399,500",,Pennsylvania,Fulfillment,November 2016,,Luzerne County,Pittston,2016
+CAE1,Small Sortable,"4400 12 Street Extension, West Columbia (Cayce), South Carolina, USA, 29172-3300","1,250,000",,South Carolina,Fulfillment,October 2011,,Lexington County,West Columbia,2011
+CAE3,"Printing Make on Demand (MOD): Books, CDs, DVDs. Replaces the N. Charleston Facility CHS1 which was closed in Feb 2017","222 Old Wire Rd, West Columbia, South Carolina, USA, 29172-2862","120,000",,South Carolina,Fulfillment,February 2017,,Lexington County,West Columbia,2017
+GSP1,Large Non-Sortable,"402 John Dodd Rd, Spartanburg. South Carolina, USA, 29303- 6312","1,016,100",,South Carolina,Fulfillment,September 2012,,Spartanburg County,Spartanburg,2012
+BNA1,Large Non-Sortable,"14840 Central Pike, Suite 190, Lebanon, Tennessee, USA, 37090-8119","449,000",,Tennessee,Fulfillment,September 2011,,Wilson County,Lebanon,2011
+BNA2,Large Non-Sortable,"500 Duke Dr, Lebanon, Tennessee, USA, 37087-8123","1,200,000",,Tennessee,Fulfillment,February 2013,,Wilson County,Lebanon,2013
+BNA3,Large Sortable,"2020 Joe B Jackson Pkwy, Murfreesboro, Tennessee, USA, 37127-7792","1,000,000",,Tennessee,Fulfillment,September 2012,,Rutherford County,Murfreesboro,2012
+CHA1,Large Sortable,"7200 Discovery Drive, Chattanooga, Tennessee, USA, 37416-1749","1,020,000",,Tennessee,Fulfillment,September 2011,,Hamilton County,Chattanooga,2011
+CHA2,"Large Non-Sortable (e.g. coffee makers, lawn tractors, barbecue grills, and water heaters along with bulk items)","225 Infinity Dr NW, Charleston, Tennessee, USA, 37310-1400","1,200,000",,Tennessee,Fulfillment,September 2011,,Bradley County,Charleston,2011
+DFW6,"Large Non-Sortable (televisions, furniture and electronics)","940 W. Bethel Road , Coppell. Texas, USA. 75019-4424","1,000,000",,Texas,Fulfillment,October 2013,,Dallas County,Coppell,2013
+DFW7,"Small Sortable (Ships smaller items like books, small electronics and DVDs) Facility budgeted at $100 Million.","700 Westport Parkway, (Haslet) Fort Worth, Texas, USA, 76177- 4513","1,100,000",,Texas,Fulfillment,October 2013,,Tarrant County,Fort Worth,2013
+FTW3/ FIVV4,"FTW3 is the VNA side of the FC
+FTW4 is the robotics side (AR=Amazon Robotics) Small Sortable FC","15201 Heritage Parkway, Fort Worth, Texas, USA, 76177-2517","1,000,000",,Texas,Fulfillment,2016,,Denton County,Fort Worth,2016
+XUSG,"Large Non-Sortable (e.g. canoes, fishing rods)
+Fulfillment center is outsourced to 3PL Menlo Logistics","14900 Frye Road, Fort Worth, Texas, USA, 76155","495,000",,Texas,Fulfillment,July 2014,,Tarrant County,Fort Worth,2014
+SAT1,"Large Non-Sortable
+Schertz is nearby San Antonio, TX. Facility Investment $166 Million.","6000 Enterprise Avenue, Schertz, Texas, USA, 78154- 1461","1,260,000",,Texas,Fulfillment,Fall 2013,,Guadalupe County,Schertz,2013
+SAT2,"Small Sortable
+Facility Investment $190 Million","1401 East McCarty Lane, San Marcos, Texas, USA, 78666- 8969","855,000",,Texas,Fulfillment,September 2016,,Hays County,San Marcos,2016
+HOU2,Small Sortable,"10550 Ella Street, Houston. Texas, USA, 77038-2324","855,000",,Texas,Fulfillment,Q4 2017,,Harris County,Houston,2017
+HOU3,Large Non-Sortable,"Woods Road and Interstate 10, Katy, Texas, USA, 77423","1,000,000",,Texas,Fulfillment,2018,,Harris County,Houston,2018
+FTW2,Large Non-Sortable,"2701 W. Bethel Road. Coppell. Texas. USA, 75261-4015",1.000.000,,Texas,Fulfillment,October 2016,,Dallas County,Coppell,2016
+FTW7,Large Non-Sortable,"944 W. Sandy Lake Road, Coppell, Texas, USA, 75019","604,800",,Texas,Fulfillment,November 2017,,Dallas County,Coppell,2017
+FTW8,Supplemental Fulfillment Center Sq Ft an Estimate Only,"3351 Balmorhea Dr. Dallas, Texas, USA, 75241",500.000,,Texas,Fulfillment,November 2017,,Dallas County,Dallas,2017
+SLC1,"Sortable
+1,000 associates to be hired","777 N. 5600 West, Salt Lake City, Utah, USA, 84116","855,000",,Utah,Fulfillment,2018,,Salt Lake County,Salt Lake City,2018
+RIC1,"Large Non-Sortable
 Ships larger packages that range from electronics and sports equipment to small kitchen appliances and toys
-1,000 associates",Fulfillment,Dinwiddie County,Petersburg,2012
-Virginia,RIC2,"1901 Meadowdle Technology Parkway, Chesterfield, Virginia, USA, 23836-2841","1,200,000",October 2012,"Small Sortable
-Ships auto parts, consumer electronics, office supplies, books, etc.",Fulfillment,Chesterfield County,Chester,2012
-Virginia,,"281 Woodbine RoadClear Brook, Virginia, USA, 22624","1,061,000",2018,"Large Non-Sortable
+1,000 associates","5000 Commerce Way, Petersburg, Virginia, USA, 23803 6917","1,100,000",,Virginia,Fulfillment,October 2012,,Dinwiddie County,Petersburg,2012
+RIC2,"Small Sortable
+Ships auto parts, consumer electronics, office supplies, books, etc.","1901 Meadowdle Technology Parkway, Chesterfield, Virginia, USA, 23836-2841","1,200,000",,Virginia,Fulfillment,October 2012,,Chesterfield County,Chester,2012
+,"Large Non-Sortable
 Ships larger packages that range from electronics and sports equipment to small kitchen appliances and toys
-1.000 associates",Fulfillment,Frederick County,Clear Brook,2018
-Washington,BFI1/ BFIX,"1800 140th Avenue E., Sumner, Washington, USA, 98390-9624","492,000",June 2011,"BFI1 is Small Sortable
-BFIX is Research & Development",Fulfillment,Pierce County,Sumner,2011
-Washington,BFI3,"2700 Center Drive, DuPont, Washington, USA, 98327-9607","1000,000
-,",February 2015,"Large Non-Sortable
+1.000 associates","281 Woodbine RoadClear Brook, Virginia, USA, 22624","1,061,000",,Virginia,Fulfillment,2018,,Frederick County,Clear Brook,2018
+BFI1/ BFIX,"BFI1 is Small Sortable
+BFIX is Research & Development","1800 140th Avenue E., Sumner, Washington, USA, 98390-9624","492,000",,Washington,Fulfillment,June 2011,,Pierce County,Sumner,2011
+BFI3,"Large Non-Sortable
 (Ships larger items such as canoes and televisions.
 Includes KIVA automation
-Facility cost $100 Million",Fulfillment,Pierce County,DuPont,2015
-Washington,BFI4,"21005 64th Ave. S, Kent, Washington, USA, 98032-2423","885,000",March 2016,"Small Sortable (books, electronics and consumer goods)",Fulfillment,King County,Kent,2016
-Wisconsin,MKE1/ MKE7,"3501 120th Ave, Kenosha, Wisconsin, USA, 53144-7502","1,000,000",June 2015,"MKE1 is a Small / Large Sortable facility that employs up to 3400 people. Facility includes a Textbook Rental Processing Center. $155 Million investment. MKE7 is a
-future facility that may be in a different location.",Fulfillment,Kenosha County,Kenosha,2015
-California,ONT8,"24300 Nandina Ave, Moreno Valley, California, USA, 92553","769,300",August 2014,Inbound Cross Dock (IXD),Crossdock,Riverside County,Moreno Valley,2014
-Illinois,MDW2,"250 Emerald Drive/401 E. Layaway Rd, Joliet, Illinois, USA, 60433-9462","475,100",October 2015,Inbound Cross Dock (IXD),Crossdock,nan,nan,2015
-Kentucky,CVG3,"3680 Langley Dr., Hebron, Kentucky, USA, 41048","711,400",July 2007,Inbound Cross Dock (IXD),Crossdock,Boone County,Hebron,2007
-New Jersey,ABE8/ TTN1,"309 Cedar Lane, Florence, New Jersey, USA, 08518-2802","613,900",September 2016,Inbound Cross Dock (IXD),Crossdock,Burlington County,Florence Township,2016
-North Carolina,CLT2,"10240 Old Dowd Road, Mecklenburg, Charlotte, North Carolina, USA, 28214-8082","397,800",October 2016,"Inbound Cross Dock (IXD)
-Amazon Prime Air Service Network",Crossdock,Mecklenburg County,Charlotte,2016
-Pennsylvania,AVP1,"550 Oak Ridge Road, Hazleton, Pennsylvania, USA, 18202-9361","615,600",July 2008,Inbound Cross Dock (IXD),Crossdock,Luzerne County,Hazleton,2008
-Texas,FTW1,"33333 Lyndon B Johnson Freeway , Dallas, Texas, USA, 75241-7203","500,000",October 2015,Inbound Cross Dock (IXD),Crossdock,Dallas County,Dallas,2015
-Arizona,UAZ1/ DPX1,"500 S 48th St, Phoenix, Arizona, USA, 85034","59,900",May 2015,Prime Now Hub/Delivery Station for Phoenix,Now,Maricopa County,Phoenix,2015
-California,UCA1,"888 Tennessee Street, San Francisco, California, USA, 94112","39,000",October 2016,Prime Now Hub for San Francisco,Now,San Francisco County,San Francisco,2016
-California,UCA2,"2400 Marine Ave, Redondo Beach, California, USA, 90278","50,000",2015,Prime Now Hub for Los Angeles,Now,Los Angeles County,Redondo Beach,2015
-California,UCA3,"11800 W Olympic Blvd, Santa Monica. California, USA, 90064- 1100","28,800",September-15,Prime Now Hub for Santa Monica,Now,Los Angeles County,Los Angeles,
-California,UCA4,"2006 McGaw Ave, Irvine, California, USA, 92614","45,300",2015,"Prime Now Hub for Irvine, CA",Now,Orange County,Irvine,2015
-California,UCAS,"Near South Vermont Ave & Wilshire Blvd, Silver Lake, California. USA, 90065",-,2015,Prime Now Hub for North Los Angeles,Now,Los Angeles County,Los Angeles,2015
-California,UCA6,"2727 Kurtz St, San Diego, California, USA, 92110","37,800",2015,Prime Now Hub for San Diego,Now,San Diego County,San Diego,2015
-California,UCA7,"222 Commercial Street, Sunnyvale, California, USA, 94085-4508","24,000",2015,Prime Now Hub for San Jose,Now,Santa Clara County,Sunnyvale,2015
-California,UCA8,"3100 San Pablo Ave. Ste 120, West Berkley, California, USA, 94702","21,000",2015,Prime Now Hub for Oakland,Now,Alameda County,Berkeley,2015
-California,UCA9,"2934 Ramona Avenue, Sacramento, California, USA, 95826-3813","20,000",April 2016,Prime Now Hub for Sacramento,Now,Sacramento County,Sacramento,2016
-California,HCA3,"3334 North San Fernando Road, Building E, Los Angeles, California, USA, 90065-1417","58,900",September-15,Prime Now Hub for North Los Angeles,Now,Los Angeles County,Los Angeles,
-California,,"2403 W. Louise Ave., Manteca. California, USA, 95337",91.100,2017,"Prime Now Hub/Delivery Station for Stockton. Modesto, and Tracy",Now,San Joaquin County,Manteca,2017
-Colorado,UCO1,"19799 E. 36th Avenue, Majestic Commercenter Building #29, Aurora, Colorado, USA, 80011- 8189",,June 2016,"Prime Now Hub for Denver
-Located within Sortation Center DENS",Now,nan,nan,2016
-Colorado,UCO2,"3550 Frontier Ave., Boulder. Colorado, USA, 80301","19,000",2017,Prime Now Hub for Boulder (Assumed),Now,Boulder County,Boulder,2017
-Florida,UFL1/ DMII,"15600 NW 15th Ave, Miami Gardens, Florida, USA, 33169","37,400",October 2014,Prime Now Hub for Miami,Now,Miami-Dade County,Miami,2014
-Florida,UFL2,"101 NE 23rd Street, Miami, Florida, USA, 33137","50,000",April 2016,Prime Now Hub for Miami,Now,Miami-Dade County,Miami,2016
-Florida,UFL3,"4440 East Adamo Drive, Suite 305, Tampa, Florida, USA, 33605","30,000",February 2016,Prime Now Hub for Tampa Bay,Now,Hillsborough County,Tampa,2016
-Florida,UFL4,"7469 Kingspointe Parkway, Orlando, Florida, USA, 32819","96,000",May 2016,Prime Now Hub for Orlando,Now,Orange County,Orlando,2016
-Georgia,"UGA1/
-UGA2","2302 Marietta Boulevard, Atlanta, Georgia, USA, 30318","43,900",February 2016,Prime Now Hub for Atlanta,Now,Fulton County,Atlanta,2016
-Georgia,UGA3,"2160 Breckenridge Blvd Suite 100, Lawrenceville, Georgia, USA, 30043","55,400",March 2016,Prime Now Hub for Atlanta,Now,Gwinnett County,Lawrenceville,2016
-Illinois,UIL1,"1111 N. Cherry Ave., Chicago, Illinois, USA, 60642","52,000",July 2015,Prime Now Hub for Chicago,Now,Cook County,Chicago,2015
-Illinois,UIL2,"1250 N. Mittel Blvd, Wood Dale, Illinois, USA, 60191",-,July 2016,Prime Now Hub for Chicago Co-located in ORD6,Now,DuPage County,Wood Dale,2016
-Indiana,UIN1,"710 South Girls School Road, Indianapolis, Indiana, USA, 46231-1132",-,July 2015,Prime Now Hub for Indianapolis Co-located in IND4,Now,Marion County,Indianapolis,2015
-Maryland,UMD1,"5001 Holabird Ave., Baltimore, Maryland, USA, 21224-6026",-,March 2015,Prime Now Hub for Baltimore Co-located in BWIS,Now,nan,Baltimore,2015
-Massachusetts,UMA3,"30 Northampton Street, Boston, Massachusetts, USA, 02118","72,300",2015,Prime Now Hub for Boston,Now,Suffolk County,Boston,2015
-Michigan,UMI1,"Building 9, 19991 Brownstown Center Drive, Trenton, Michigan, USA 48183",-,,Prime Now Hub for Detroit Co-located in Sortation Center DTWS,Now,Wayne County,Brownstown Charter Township,
-Minnesota,UMN1,"763 Kasota Ave., Minneapolis, Minnesota, USA, 55414","35,000",October 2015,Prime Now Hub for Minneapolis/St Paul,Now,Hennepin County,Minneapolis,2015
-Nevada,UNV1,"3650 East Post Road, Suite E, Las Vegas, Nevada, USA, 89120. 6297","16,300",October 2015,Prime Now Hub for Las Vegas,Now,Clark County,Las Vegas,2015
-New York,JFK7,"7 W. 34th St., New York, New York, USA, 10001-8100","40,000",December 2014,Prime Now Hub for Manhattan,Now,New York County,New York,2014
-New York,,"850 Third Ave., Liberty View Industrial Plaza, Brooklyn, New York, USA. 11232",-,December 2015,Prime Now Hub for Brooklyn,Now,Kings County,nan,2015
-New Jersey,UNJ1,"940 Monroe Street, Hoboken, New Jersey, USA, 07030","120,000",2015,Prime Now Hub for New Jersey,Now,Hudson County,Hoboken,2015
-North Carolina,UNC1,"300 Dalton Avenue, Charlotte, North Carolina, USA, 28206-3118","33,900",December 2015,Prime Now Hub for Charlotte,Now,Mecklenburg County,Charlotte,2015
-North Carolina,UNC2,"3200 Bush Street, Raleigh, North Carolina, USA, 27609-7503","30,000",February 2016,Prime Now Hub for Raleigh,Now,Wake County,Raleigh,2016
-Ohio,U0H1,"5845 Highland Ridge Drive, Cincinnati, Ohio, USA, 45232","58,000",February 2016,me Now Hub for Cincinnati Prime,Now,Hamilton County,Cincinnati,2016
-Ohio,U0H2,"3563 Interchange Road, Columbus, Ohio, USA, 43204","45,700",February 2016,"Prime Now Hub for Columbus, OH",Now,Franklin County,Columbus,2016
-Oregon,UOR1,"2250 Northwest 22nd Avenue. Portland, Oregon, USA, 97210",-,August 2015,Prime Now Hub for Portland. OR,Now,Multnomah County,Portland,2015
-Pennsylvania,UPA1,"4101 Sansom Street, Philadelphia, Pennsylvania, USA, 19104-3021","35,000",2015,Prime Now Hub for Philadelphia,Now,Philadelphia County,Philadelphia,2015
-Tennessee,UTN1,"410 Harding Industrial Drive, Nashville, Tennessee, USA, 37211",60.000,2015,Prime Now Hub for Nashville,Now,Davidson County,Nashville,2015
-Texas,UTX1,"2700 Regent Blvd, Irving, Texas, USA, 75063",-,2015,Prime Now Hub for Dallas. TX,Now,Dallas County,Irving,2015
-Texas,UTX2,"2209 B Rutland Rd, Austin, Texas, USA, 78758",45.000,2015,Prime Now Hub for Austin TX,Now,Travis County,Austin,2015
-Texas,UTX3/ HTX1/ HTX2/ MO,"4221 Way Out West Drive, Houston, Texas, USA, 77092","88,000",October 2015,"Prime Now Hub for Houston, TX",Now,Harris County,Houston,2015
-Texas,UTX4/ TrX4,"6627 Maple Avenue, Dallas. Texas, USA, 75235","42,600",2016,"Prime Now Hub for Fort Worth, TX",Now,Dallas County,Dallas,2016
-Texas,UTX5,"4848 Perrin Creek, Suite 680, San Antonio, Texas, USA, 78217","24,800",November 2015,Prime Now Hub for San Antonio TX,Now,Bexar County,San Antonio,2015
-Texas,"UTX7/
-DDA3","4601 Gold Spike Drive, Fort Worth. Texas. USA, 76106",-,October 2016,Prime Now Hub for Fort Worth. TX Co-located in DDA3,Now,Tarrant County,Fort Worth,2016
-Virginia,UVA1/ DDC1,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",-,2015,Prime Now Hub for Washington DC Co-located in BWI6,Now,Fairfax County,Springfield,2015
-Virginia,UVA2,"804 Greenbrier Circle, Chesapeake, Virginia, USA, 23320","18,300",February 2016,Prime Now Hub for Chesapeake VA,Now,nan,Chesapeake,2016
-Virginia,UVA3,"2034 Dabney Road, Richmond. Virginia, USA, 23230","11,900",November 2015,"Prime Now Hub for Richmond, VA",Now,Henrico County,Richmond,2015
-Washington,UWA1/ HWA1/ HWA2,"11710 118th Ave. N.E. , Building B, Kirkland, Washington, USA, 98034","38,300",2015,Prime Now Hub for Seattle WA,Now,King County,Kirkland,2015
-Washington,"uwA2f
-TVVAO","13537 Aurora Ave. N., North Seattle, Washington, USA, 98133","38,400",2015,Prime Now Hub for Seattle WA,Now,King County,Seattle,2015
-Washington,UWA3,"2121 8th Ave., Seattle , Washington, USA, 98121",18.900,2015,Prime Now Hub for Seattle WA,Now,King County,Seattle,2015
-Washington,UWA4/ FSE3,"76 S Lander St., Seattle , Washington, USA, 98134","40,000",October 2016,Prime Now Hub for Seattle WA,Now,King County,Seattle,2016
-Washington,UWAS,"1926 6th Ave. S., Seattle , Washington, USA, 98134","17,500",January 2016,me Now Hub for Seattle WA Prime,Now,King County,Seattle,2016
-Wisconsin,UWI1,"4111 W Mitchell St, Milwaukee, Wisconsin, USA, 53215","60800
-,",March 2017,"Prime Now Hub for Milwaukee, WI Also Amazon.Fresh facility",Now,Milwaukee County,Milwaukee,2017
-Alabama,MOBS,"6735 Trippel Road, Theodore, Alabama, USA, 36619","362,000",October 2017,"Sortation Center for Mobile, AL",Sortation,Mobile County,Theodore,2017
-Arizona,PHX8,"800 N. 75th Ave, Phoenix. Arizona. USA, 85043-3101",-,October 2010,PHX8 Square Feet is included within PHX7,Sortation,Maricopa County,Phoenix,2010
-California,OAKS,"38811 Cherry Street, Newark, California, USA, 94560-4939","574,600",November 2014,"OAKS is a Sortation Center to service the San Francisco Bay area.
-Facility includes OAK7 (Amazon Pantry) 200 associates",Sortation,Alameda County,Newark,2014
-California,ONTS,"2020 E. Central Ave., San Bernardino, California, USA, 92408-2606",-,October 2013,Sortation Center for the Los Angeles region,Sortation,San Bernardino County,San Bernardino,2013
-California,LAXS,"6400 Valley View Street, Bueno Park, California, USA, 90620","238,300",Q3 2017,Sortation Center for the Los Angeles region,Sortation,Orange County,Buena Park,2017
-California,SMFS,"300 Crocker Drive, Vacaville, California. USA. 95688","322
+Facility cost $100 Million","2700 Center Drive, DuPont, Washington, USA, 98327-9607","1000,000
+,",,Washington,Fulfillment,February 2015,,Pierce County,DuPont,2015
+BFI4,"Small Sortable (books, electronics and consumer goods)","21005 64th Ave. S, Kent, Washington, USA, 98032-2423","885,000",,Washington,Fulfillment,March 2016,,King County,Kent,2016
+MKE1/ MKE7,"MKE1 is a Small / Large Sortable facility that employs up to 3400 people. Facility includes a Textbook Rental Processing Center. $155 Million investment. MKE7 is a
+future facility that may be in a different location.","3501 120th Ave, Kenosha, Wisconsin, USA, 53144-7502","1,000,000",,Wisconsin,Fulfillment,June 2015,,Kenosha County,Kenosha,2015
+ONT8,Inbound Cross Dock (IXD),"24300 Nandina Ave, Moreno Valley, California, USA, 92553","769,300",,California,Crossdock,August 2014,,Riverside County,Moreno Valley,2014
+MDW2,Inbound Cross Dock (IXD),"250 Emerald Drive/401 E. Layaway Rd, Joliet, Illinois","475,100",,Illinois,Crossdock,October 2015,,Will County,Joliet,2015
+CVG3,Inbound Cross Dock (IXD),"3680 Langley Dr., Hebron, Kentucky, USA, 41048","711,400",,Kentucky,Crossdock,July 2007,,Boone County,Hebron,2007
+ABE8/ TTN1,Inbound Cross Dock (IXD),"309 Cedar Lane, Florence, New Jersey, USA, 08518-2802","613,900",,New Jersey,Crossdock,September 2016,,Burlington County,Florence Township,2016
+CLT2,"Inbound Cross Dock (IXD)
+Amazon Prime Air Service Network","10240 Old Dowd Road, Mecklenburg, Charlotte, North Carolina, USA, 28214-8082","397,800",,North Carolina,Crossdock,October 2016,,Mecklenburg County,Charlotte,2016
+AVP1,Inbound Cross Dock (IXD),"550 Oak Ridge Road, Hazleton, Pennsylvania, USA, 18202-9361","615,600",,Pennsylvania,Crossdock,July 2008,,Luzerne County,Hazleton,2008
+FTW1,Inbound Cross Dock (IXD),"33333 Lyndon B Johnson Freeway , Dallas, Texas, USA, 75241-7203","500,000",,Texas,Crossdock,October 2015,,Dallas County,Dallas,2015
+UAZ1/ DPX1,Prime Now Hub/Delivery Station for Phoenix,"500 S 48th St, Phoenix, Arizona, USA, 85034",,"59,900",Arizona,Now,,"May
+2015",Maricopa County,Phoenix,
+UCA1,Prime Now Hub for San Francisco,"888 Tennessee Street, San Francisco, California, USA, 94112",,"39,000",California,Now,,"October
+2016",San Francisco County,San Francisco,
+UCA2,Prime Now Hub for Los Angeles,"2400 Marine Ave, Redondo Beach, California, USA, 90278",,"50,000",California,Now,,2015,Los Angeles County,Redondo Beach,
+UCA3,Prime Now Hub for Santa Monica,"11800 W Olympic Blvd, Santa Monica. California, USA, 90064- 1100",,"28,800",California,Now,,September-15,Los Angeles County,Los Angeles,
+UCA4,"Prime Now Hub for Irvine, CA","2006 McGaw Ave, Irvine, California, USA, 92614",,"45,300",California,Now,,2015,Orange County,Irvine,
+UCAS,Prime Now Hub for North Los Angeles,"Near South Vermont Ave & Wilshire Blvd, Silver Lake, California. USA, 90065",,-,California,Now,,2015,Los Angeles County,Los Angeles,
+UCA6,Prime Now Hub for San Diego,"2727 Kurtz St, San Diego, California, USA, 92110",,"37,800",California,Now,,2015,San Diego County,San Diego,
+UCA7,Prime Now Hub for San Jose,"222 Commercial Street, Sunnyvale, California, USA, 94085-4508",,"24,000",California,Now,,2015,Santa Clara County,Sunnyvale,
+UCA8,Prime Now Hub for Oakland,"3100 San Pablo Ave. Ste 120, West Berkley, California, USA, 94702",,"21,000",California,Now,,2015,Alameda County,Berkeley,
+UCA9,Prime Now Hub for Sacramento,"2934 Ramona Avenue, Sacramento, California, USA, 95826-3813",,"20,000",California,Now,,"April
+2016",Sacramento County,Sacramento,
+HCA3,Prime Now Hub for North Los Angeles,"3334 North San Fernando Road, Building E, Los Angeles, California, USA, 90065-1417",,"58,900",California,Now,,September-15,Los Angeles County,Los Angeles,
+,"Prime Now Hub/Delivery Station for Stockton. Modesto, and Tracy","2403 W. Louise Ave., Manteca. California, USA, 95337",,91.100,California,Now,,2017,San Joaquin County,Manteca,
+UCO1,"Prime Now Hub for Denver
+Located within Sortation Center DENS","19799 E. 36th Avenue, Majestic Commercenter Building #29, Aurora, Colorado",,,Colorado,Now,,"June
+2016",Adams County,Aurora,
+UCO2,Prime Now Hub for Boulder (Assumed),"3550 Frontier Ave., Boulder. Colorado, USA, 80301",,"19,000",Colorado,Now,,2017,Boulder County,Boulder,
+UFL1/ DMII,Prime Now Hub for Miami,"15600 NW 15th Ave, Miami Gardens, Florida, USA, 33169",,"37,400",Florida,Now,,"October
+2014",Miami-Dade County,Miami,
+UFL2,Prime Now Hub for Miami,"101 NE 23rd Street, Miami, Florida, USA, 33137",,"50,000",Florida,Now,,"April
+2016",Miami-Dade County,Miami,
+UFL3,Prime Now Hub for Tampa Bay,"4440 East Adamo Drive, Suite 305, Tampa, Florida, USA, 33605",,"30,000",Florida,Now,,"February
+2016",Hillsborough County,Tampa,
+UFL4,Prime Now Hub for Orlando,"7469 Kingspointe Parkway, Orlando, Florida, USA, 32819",,"96,000",Florida,Now,,"May
+2016",Orange County,Orlando,
+"UGA1/
+UGA2",Prime Now Hub for Atlanta,"2302 Marietta Boulevard, Atlanta, Georgia, USA, 30318",,"43,900",Georgia,Now,,"February
+2016",Fulton County,Atlanta,
+UGA3,Prime Now Hub for Atlanta,"2160 Breckenridge Blvd Suite 100, Lawrenceville, Georgia, USA, 30043",,"55,400",Georgia,Now,,"March
+2016",Gwinnett County,Lawrenceville,
+UIL1,Prime Now Hub for Chicago,"1111 N. Cherry Ave., Chicago, Illinois, USA, 60642",,"52,000",Illinois,Now,,"July
+2015",Cook County,Chicago,
+UIL2,Prime Now Hub for Chicago Co-located in ORD6,"1250 N. Mittel Blvd, Wood Dale, Illinois, USA, 60191",,-,Illinois,Now,,"July
+2016",DuPage County,Wood Dale,
+UIN1,Prime Now Hub for Indianapolis Co-located in IND4,"710 South Girls School Road, Indianapolis, Indiana, USA, 46231-1132",,-,Indiana,Now,,"July
+2015",Marion County,Indianapolis,
+UMD1,Prime Now Hub for Baltimore Co-located in BWIS,"5001 Holabird Ave., Baltimore, Maryland, USA, 21224-6026",,-,Maryland,Now,,"March
+2015",,Baltimore,
+UMA3,Prime Now Hub for Boston,"30 Northampton Street, Boston, Massachusetts, USA, 02118",,"72,300",Massachusetts,Now,,2015,Suffolk County,Boston,
+UMI1,Prime Now Hub for Detroit Co-located in Sortation Center DTWS,"Building 9, 19991 Brownstown Center Drive, Trenton, Michigan, USA 48183",,-,Michigan,Now,,,Wayne County,Brownstown Charter Township,
+UMN1,Prime Now Hub for Minneapolis/St Paul,"763 Kasota Ave., Minneapolis, Minnesota, USA, 55414",,"35,000",Minnesota,Now,,"October
+2015",Hennepin County,Minneapolis,
+UNV1,Prime Now Hub for Las Vegas,"3650 East Post Road, Suite E, Las Vegas, Nevada, USA, 89120. 6297",,"16,300",Nevada,Now,,"October
+2015",Clark County,Las Vegas,
+JFK7,Prime Now Hub for Manhattan,"7 W. 34th St., New York, New York, USA, 10001-8100",,"40,000",New York,Now,,"December
+2014",New York County,New York,
+,Prime Now Hub for Brooklyn,"850 Third Ave., Liberty View Industrial Plaza, Brooklyn, New York, USA. 11232",,-,New York,Now,,"December
+2015",Kings County,,
+UNJ1,Prime Now Hub for New Jersey,"940 Monroe Street, Hoboken, New Jersey, USA, 07030",,"120,000",New Jersey,Now,,2015,Hudson County,Hoboken,
+UNC1,Prime Now Hub for Charlotte,"300 Dalton Avenue, Charlotte, North Carolina, USA, 28206-3118",,"33,900",North Carolina,Now,,"December
+2015",Mecklenburg County,Charlotte,
+UNC2,Prime Now Hub for Raleigh,"3200 Bush Street, Raleigh, North Carolina, USA, 27609-7503",,"30,000",North Carolina,Now,,"February
+2016",Wake County,Raleigh,
+U0H1,me Now Hub for Cincinnati Prime,"5845 Highland Ridge Drive, Cincinnati, Ohio, USA, 45232",,"58,000",Ohio,Now,,"February
+2016",Hamilton County,Cincinnati,
+U0H2,"Prime Now Hub for Columbus, OH","3563 Interchange Road, Columbus, Ohio, USA, 43204",,"45,700",Ohio,Now,,"February
+2016",Franklin County,Columbus,
+UOR1,Prime Now Hub for Portland. OR,"2250 Northwest 22nd Avenue. Portland, Oregon, USA, 97210",,-,Oregon,Now,,"August
+2015",Multnomah County,Portland,
+UPA1,Prime Now Hub for Philadelphia,"4101 Sansom Street, Philadelphia, Pennsylvania, USA, 19104-3021",,"35,000",Pennsylvania,Now,,2015,Philadelphia County,Philadelphia,
+UTN1,Prime Now Hub for Nashville,"410 Harding Industrial Drive, Nashville, Tennessee, USA, 37211",,60.000,Tennessee,Now,,2015,Davidson County,Nashville,
+UTX1,Prime Now Hub for Dallas. TX,"2700 Regent Blvd, Irving, Texas, USA, 75063",,-,Texas,Now,,2015,Dallas County,Irving,
+UTX2,Prime Now Hub for Austin TX,"2209 B Rutland Rd, Austin, Texas, USA, 78758",,45.000,Texas,Now,,2015,Travis County,Austin,
+UTX3/ HTX1/ HTX2/ MO,"Prime Now Hub for Houston, TX","4221 Way Out West Drive, Houston, Texas, USA, 77092",,"88,000",Texas,Now,,"October
+2015",Harris County,Houston,
+UTX4/ TrX4,"Prime Now Hub for Fort Worth, TX","6627 Maple Avenue, Dallas. Texas, USA, 75235",,"42,600",Texas,Now,,2016,Dallas County,Dallas,
+UTX5,Prime Now Hub for San Antonio TX,"4848 Perrin Creek, Suite 680, San Antonio, Texas, USA, 78217",,"24,800",Texas,Now,,"November
+2015",Bexar County,San Antonio,
+"UTX7/
+DDA3",Prime Now Hub for Fort Worth. TX Co-located in DDA3,"4601 Gold Spike Drive, Fort Worth. Texas. USA, 76106",,-,Texas,Now,,"October
+2016",Tarrant County,Fort Worth,
+UVA1/ DDC1,Prime Now Hub for Washington DC Co-located in BWI6,"5617 Industrial Dr, Suite A, Springfield, Virginia, USA, 22151- 4410",,-,Virginia,Now,,2015,Fairfax County,Springfield,
+UVA2,Prime Now Hub for Chesapeake VA,"804 Greenbrier Circle, Chesapeake, Virginia, USA, 23320",,"18,300",Virginia,Now,,"February
+2016",,Chesapeake,
+UVA3,"Prime Now Hub for Richmond, VA","2034 Dabney Road, Richmond. Virginia, USA, 23230",,"11,900",Virginia,Now,,"November
+2015",Henrico County,Richmond,
+UWA1/ HWA1/ HWA2,Prime Now Hub for Seattle WA,"11710 118th Ave. N.E. , Building B, Kirkland, Washington, USA, 98034",,"38,300",Washington,Now,,2015,King County,Kirkland,
+"uwA2f
+TVVAO",Prime Now Hub for Seattle WA,"13537 Aurora Ave. N., North Seattle, Washington, USA, 98133",,"38,400",Washington,Now,,2015,King County,Seattle,
+UWA3,Prime Now Hub for Seattle WA,"2121 8th Ave., Seattle , Washington, USA, 98121",,18.900,Washington,Now,,2015,King County,Seattle,
+UWA4/ FSE3,Prime Now Hub for Seattle WA,"76 S Lander St., Seattle , Washington, USA, 98134",,"40,000",Washington,Now,,"October
+2016",King County,Seattle,
+UWAS,me Now Hub for Seattle WA Prime,"1926 6th Ave. S., Seattle , Washington, USA, 98134",,"17,500",Washington,Now,,"January
+2016",King County,Seattle,
+UWI1,"Prime Now Hub for Milwaukee, WI Also Amazon.Fresh facility","4111 W Mitchell St, Milwaukee, Wisconsin, USA, 53215",,"60800
+,",Wisconsin,Now,,"March
+2017",Milwaukee County,Milwaukee,
+MOBS,"Sortation Center for Mobile, AL","6735 Trippel Road, Theodore, Alabama, USA, 36619","362,000",,Alabama,Sortation,October 2017,,Mobile County,Theodore,2017
+PHX8,PHX8 Square Feet is included within PHX7,"800 N. 75th Ave, Phoenix. Arizona. USA, 85043-3101",-,,Arizona,Sortation,October 2010,,Maricopa County,Phoenix,2010
+OAKS,"OAKS is a Sortation Center to service the San Francisco Bay area.
+Facility includes OAK7 (Amazon Pantry) 200 associates","38811 Cherry Street, Newark, California, USA, 94560-4939","574,600",,California,Sortation,November 2014,,Alameda County,Newark,2014
+ONTS,Sortation Center for the Los Angeles region,"2020 E. Central Ave., San Bernardino, California, USA, 92408-2606",-,,California,Sortation,October 2013,,San Bernardino County,San Bernardino,2013
+LAXS,Sortation Center for the Los Angeles region,"6400 Valley View Street, Bueno Park, California, USA, 90620","238,300",,California,Sortation,Q3 2017,,Orange County,Buena Park,2017
+SMFS,Sortation Center for the Sacramento/Oakland region,"300 Crocker Drive, Vacaville, California. USA. 95688","322
 322.000
-.",Q4 2017,Sortation Center for the Sacramento/Oakland region,Sortation,Solano County,Vacaville,2017
-California,,"Airport Hub Sortation Center, Sacramento, California, USA",40.000,Q4 2017,Air Sortation Hub for Sacramento,Sortation,nan,nan,2017
-Colorado,DENS,"19799 E. 36th Avenue, Majestic Commercenter Building #29, Aurora, Colorado, USA, 80011- 8189","452,400",June 2016,Sortation Center and Delivery Station for Denver Colorado,Sortation,nan,nan,2016
-Connecticut,BDLS,"29 Research Parkway, Wallingford, Connecticut, USA, 06492-1927","184,100",Q4 2015,Sortation Center for Windsor CT Market,Sortation,New Haven County,Wallingford,2015
-Florida,MCO5,"305 Deen Still Road , Davenport, Florida, USA, 33897-9409","270,000",July 2014,Sortation Center for Tampa Bay & Lakeland Markets,Sortation,Polk County,Davenport,2014
-Florida,MIAS,"1900 NW 132nd Place , Miami (Doral), Florida, USA, 33182- 1920","335,800",October 2014,Sortation Center for Miami 300 associates,Sortation,Miami-Dade County,Miami,2014
-Florida,JARS,"4948 Bulls Bay Highway, Jacksonville, Florida, USA, 32219","237,100",September 2017,Sortation Center for Jacksonville Market,Sortation,Duval County,Jacksonville,2017
-Georgia,ATLS,"4200 North Commerce Dr, East Point, Georgia, USA, 30344- 5707",-,March 2014,"ATLS is a Sortation Center for the Atlanta Market;
-Co-located in ATL6",Sortation,Fulton County,East Point,2014
-Illinois,MDW5,"16824 Enterprise Blvd., Crest Hill, Illinois. USA. 60435","438,200",October 2017,Sortation Center for SW Chicago Market,Sortation,Will County,Lockport,2017
-Kansas,MCIS,"16851 W 113th St, Lenexa Logistics Center, Lenexa, Kansas, USA, 66219","260,700",2014,Sortation Center for Kansas Market,Sortation,Johnson County,Lenexa,2014
-Kentucky,CVGS/ CVG7,"2285 Litton Lane, Hebron, Kentucky, USA, 41048-8435","598,000",September 2013,CVGS is a Super Sortation Center CVG7 is Amazon Pantry,Sortation,Boone County,Hebron,2013
-Kentucky,CVG9,"2305 Litton Lane, Hebron, Kentucky, USA, 41048-8435","598,000",Q4 2017,CVG9 is Likely a Sortation Center,Sortation,Boone County,Hebron,2017
-Kentucky,,"Airport Hub Sortation Center. Hebron, Kentucky, USA,","3,350,000",October 2018,"New AirHub being constructed.
+.",,California,Sortation,Q4 2017,,Solano County,Vacaville,2017
+,Air Sortation Hub for Sacramento,"Airport Hub Sortation Center, Sacramento, California, USA",40.000,,California,Sortation,Q4 2017,,,,2017
+DENS,Sortation Center and Delivery Station for Denver Colorado,"19799 E. 36th Avenue, Majestic Commercenter Building #29, Aurora, Colorado","452,400",,Colorado,Sortation,June 2016,,Adams County,Aurora,2016
+BDLS,Sortation Center for Windsor CT Market,"29 Research Parkway, Wallingford, Connecticut, USA, 06492-1927","184,100",,Connecticut,Sortation,Q4 2015,,New Haven County,Wallingford,2015
+MCO5,Sortation Center for Tampa Bay & Lakeland Markets,"305 Deen Still Road , Davenport, Florida, USA, 33897-9409","270,000",,Florida,Sortation,July 2014,,Polk County,Davenport,2014
+MIAS,Sortation Center for Miami 300 associates,"1900 NW 132nd Place , Miami (Doral), Florida, USA, 33182- 1920","335,800",,Florida,Sortation,October 2014,,Miami-Dade County,Miami,2014
+JARS,Sortation Center for Jacksonville Market,"4948 Bulls Bay Highway, Jacksonville, Florida, USA, 32219","237,100",,Florida,Sortation,September 2017,,Duval County,Jacksonville,2017
+ATLS,"ATLS is a Sortation Center for the Atlanta Market;
+Co-located in ATL6","4200 North Commerce Dr, East Point, Georgia, USA, 30344- 5707",-,,Georgia,Sortation,March 2014,,Fulton County,East Point,2014
+MDW5,Sortation Center for SW Chicago Market,"16824 Enterprise Blvd., Crest Hill, Illinois. USA. 60435","438,200",,Illinois,Sortation,October 2017,,Will County,Lockport,2017
+MCIS,Sortation Center for Kansas Market,"16851 W 113th St, Lenexa Logistics Center, Lenexa, Kansas, USA, 66219","260,700",,Kansas,Sortation,2014,,Johnson County,Lenexa,2014
+CVGS/ CVG7,CVGS is a Super Sortation Center CVG7 is Amazon Pantry,"2285 Litton Lane, Hebron, Kentucky, USA, 41048-8435","598,000",,Kentucky,Sortation,September 2013,,Boone County,Hebron,2013
+CVG9,CVG9 is Likely a Sortation Center,"2305 Litton Lane, Hebron, Kentucky, USA, 41048-8435","598,000",,Kentucky,Sortation,Q4 2017,,Boone County,Hebron,2017
+,"New AirHub being constructed.
 Will include a 3 million-square-foot sorting facility and space for 100 cargo jets.
-Will create 2700 jobs over time.",Sortation,nan,nan,2018
-Maryland,BWI5/ UMD1,"5001 Holabird Ave., Baltimore, Maryland, USA, 21224-6026","345,000",October 2014,Sortation Center connected by conveyor to the BWI2 Fulfillment Center,Sortation,nan,Baltimore,2014
-Massachusetts,BOSS,"1000 Technology Center Drive, Stoughton, Massachusetts, USA, 02072-4744","332,700",November 2014,Sortation Center for Boston Market,Sortation,Norfolk County,Stoughton,2014
-Michigan,DTVV5/ UMI1,"Brownstown Business Center South, Building 9, 19991 Brownstown Center Drive, Trenton, Michigan, USA, 48183","210,000",Q4 2015,Sortation Center for Detroit Market,Sortation,Wayne County,Brownstown Charter Township,2015
-Minnesota,MSP5,"5825 11th Ave. East, Shakopee, Minnesota. USA, 55379-3810",162.000,August 2015,Sortation Center for Minneapolis Market,Sortation,Scott County,Shakopee,2015
-Missouri,STLS,"Building 3, 462 Hazelwood Logistics Center Drive, Hazelwood, Missouri, USA, 63042","348,500",Q3 2017,Sortation Center for St. Louis Market,Sortation,St. Louis County,Hazelwood,2017
-New Jersey,ACY5,"2277 Center Square Rd , Swedesboro, Logan Township, New Jersey. USA. 08085","202,900",October 2014,Sortation Center for New Jersey Market,Sortation,Gloucester County,Logan Township,2014
-New Jersey,EWRS,"301 Blair Road #100, Woodbridge (Avenel), New Jersey, USA, 07001-2225","562,200",September 2013,Sortation Center and Returns Center,Sortation,Middlesex County,Woodbridge Township,2013
-New York,BUFS,"4201 Walden Avenue, Lancaster, New York, USA, 14086","525,000",Q4 2017,Sortation Center for Buffalo/Rochester Area,Sortation,Erie County,Lancaster,2017
-North Carolina,CLT5/ CLT1,"1745 Derita Rd, Concord, North Carolina, USA, 28027-3353","222500
-,",November 2014,Sortation Center for Charlotte 360 associates,Sortation,Cabarrus County,Concord,2014
-North Carolina,RDUS,"1805 TVV Alexander Drive, Durham, North Carolina, USA, 27703-8389","324,500",October 2016,Sortation Center for Raleigh/Durham,Sortation,Durham County,Durham,2016
-Ohio,CLES,"8685 Independence Parkway, Twinsburg, Ohio, USA, 44087- 1971","248,000",2016,Sortation Center for Cleveland 300 associates,Sortation,Summit County,Twinsburg,2016
-Ohio,,"Monroe, Ohio, USA, 45036",300.000,2018,We believe this to be a Sortation Center for the Cincinnati Area,Sortation,Butler County,Monroe,2018
-Oklahoma,OKCS,"1414 S. Council Road, Oklahoma City, Oklahoma, USA, 73128","300,000",2018,Sortation Center for Oklahoma City Area,Sortation,Oklahoma County,Oklahoma City,2018
-Oregon,PDXS,"5647 NW Huffman Street, Washington, Hillsboro, Oregon, USA. 97124-5848","303,000",2016,"Sortation Center for Portland, OR",Sortation,Washington County,Hillsboro,2016
-Pennsylvania,PITS/ PIT1,"2250 Roswell Drive, Pittsburgh, Pennsylvania, USA, 15205-1800","250,000",2015,Sortation Center for Pittsburg,Sortation,Allegheny County,Pittsburgh,2015
-Tennessee,BNA5/ BNA4,"50 Airways Blvd. , Nashville, Tennessee. USA. 37217-2516",214.000,September 2014,Sortation Center for Nashville,Sortation,Davidson County,Nashville,2014
-Texas,DFW8/ DFW9/ UTX1,"2700 Regent Blvd, Irving, Texas, USA, 75063","428,500",March 2014,"DFW8:Sortation Center for Dallas/Fort Worth
-DFW9:Amazon Prime Pantry",Sortation,Dallas County,Irving,2014
-Texas,HOU1,"8120 Humble Westfield Rd, Humble, Texas, USA, 77338- 4142","240,000",June 2014,Sortation Center for Houston Market,Sortation,Harris County,Humble,2014
-Texas,SATS,"1410 S. Callaghan Road, Bexar, San Antonio, Texas, USA, 78227 2204","193,900",November 2015,Sortation Center for San Antonio Market,Sortation,Bexar County,San Antonio,2015
-Virginia,RIC3,"1901 Meadovvville Technology Parkway, Chesterfield, Virginia, USA, 23836-2841",-,October 2012,Sortation Center for Richmond Market Co-located within RIC2 FC,Sortation,Chesterfield County,Chester,2012
-Virginia,RIGS,"11600 N. Lakeridge Parkway, Ashland, Virginia, USA, 23005","328,100",September 2017,Sortation Center for Richmond Market,Sortation,Hanover County,Ashland,2017
-Washington,BFI5,"20529 59th Place South, Building B, Kent, Washington, USA, 98032",318.200,July 2014,Sortation Center for Seattle Market,Sortation,King County,Kent,2014
-Wisconsin,MKES,"11211 Burlington Road, Kenosha, Wisconsin, USA, 53144-7449","500,000",October 2014,Sortation Center for Milwaukee Market 500 people employed,Sortation,Kenosha County,Kenosha,2014
+Will create 2700 jobs over time.","Airport Hub Sortation Center. Hebron, Kentucky, USA,","3,350,000",,Kentucky,Sortation,October 2018,,,,2018
+BWI5/ UMD1,Sortation Center connected by conveyor to the BWI2 Fulfillment Center,"5001 Holabird Ave., Baltimore, Maryland, USA, 21224-6026","345,000",,Maryland,Sortation,October 2014,,,Baltimore,2014
+BOSS,Sortation Center for Boston Market,"1000 Technology Center Drive, Stoughton, Massachusetts, USA, 02072-4744","332,700",,Massachusetts,Sortation,November 2014,,Norfolk County,Stoughton,2014
+DTVV5/ UMI1,Sortation Center for Detroit Market,"Brownstown Business Center South, Building 9, 19991 Brownstown Center Drive, Trenton, Michigan, USA, 48183","210,000",,Michigan,Sortation,Q4 2015,,Wayne County,Brownstown Charter Township,2015
+MSP5,Sortation Center for Minneapolis Market,"5825 11th Ave. East, Shakopee, Minnesota. USA, 55379-3810",162.000,,Minnesota,Sortation,August 2015,,Scott County,Shakopee,2015
+STLS,Sortation Center for St. Louis Market,"Building 3, 462 Hazelwood Logistics Center Drive, Hazelwood, Missouri, USA, 63042","348,500",,Missouri,Sortation,Q3 2017,,St. Louis County,Hazelwood,2017
+ACY5,Sortation Center for New Jersey Market,"2277 Center Square Rd , Swedesboro, Logan Township, New Jersey. USA. 08085","202,900",,New Jersey,Sortation,October 2014,,Gloucester County,Logan Township,2014
+EWRS,Sortation Center and Returns Center,"301 Blair Road #100, Woodbridge (Avenel), New Jersey, USA, 07001-2225","562,200",,New Jersey,Sortation,September 2013,,Middlesex County,Woodbridge Township,2013
+BUFS,Sortation Center for Buffalo/Rochester Area,"4201 Walden Avenue, Lancaster, New York, USA, 14086","525,000",,New York,Sortation,Q4 2017,,Erie County,Lancaster,2017
+CLT5/ CLT1,Sortation Center for Charlotte 360 associates,"1745 Derita Rd, Concord, North Carolina, USA, 28027-3353","222500
+,",,North Carolina,Sortation,November 2014,,Cabarrus County,Concord,2014
+RDUS,Sortation Center for Raleigh/Durham,"1805 TVV Alexander Drive, Durham, North Carolina, USA, 27703-8389","324,500",,North Carolina,Sortation,October 2016,,Durham County,Durham,2016
+CLES,Sortation Center for Cleveland 300 associates,"8685 Independence Parkway, Twinsburg, Ohio, USA, 44087- 1971","248,000",,Ohio,Sortation,2016,,Summit County,Twinsburg,2016
+,We believe this to be a Sortation Center for the Cincinnati Area,"Monroe, Ohio, USA, 45036",300.000,,Ohio,Sortation,2018,,Butler County,Monroe,2018
+OKCS,Sortation Center for Oklahoma City Area,"1414 S. Council Road, Oklahoma City, Oklahoma, USA, 73128","300,000",,Oklahoma,Sortation,2018,,Oklahoma County,Oklahoma City,2018
+PDXS,"Sortation Center for Portland, OR","5647 NW Huffman Street, Washington, Hillsboro, Oregon, USA. 97124-5848","303,000",,Oregon,Sortation,2016,,Washington County,Hillsboro,2016
+PITS/ PIT1,Sortation Center for Pittsburg,"2250 Roswell Drive, Pittsburgh, Pennsylvania, USA, 15205-1800","250,000",,Pennsylvania,Sortation,2015,,Allegheny County,Pittsburgh,2015
+BNA5/ BNA4,Sortation Center for Nashville,"50 Airways Blvd. , Nashville, Tennessee. USA. 37217-2516",214.000,,Tennessee,Sortation,September 2014,,Davidson County,Nashville,2014
+DFW8/ DFW9/ UTX1,"DFW8:Sortation Center for Dallas/Fort Worth
+DFW9:Amazon Prime Pantry","2700 Regent Blvd, Irving, Texas, USA, 75063","428,500",,Texas,Sortation,March 2014,,Dallas County,Irving,2014
+HOU1,Sortation Center for Houston Market,"8120 Humble Westfield Rd, Humble, Texas, USA, 77338- 4142","240,000",,Texas,Sortation,June 2014,,Harris County,Humble,2014
+SATS,Sortation Center for San Antonio Market,"1410 S. Callaghan Road, Bexar, San Antonio, Texas, USA, 78227 2204","193,900",,Texas,Sortation,November 2015,,Bexar County,San Antonio,2015
+RIC3,Sortation Center for Richmond Market Co-located within RIC2 FC,"1901 Meadovvville Technology Parkway, Chesterfield, Virginia, USA, 23836-2841",-,,Virginia,Sortation,October 2012,,Chesterfield County,Chester,2012
+RIGS,Sortation Center for Richmond Market,"11600 N. Lakeridge Parkway, Ashland, Virginia, USA, 23005","328,100",,Virginia,Sortation,September 2017,,Hanover County,Ashland,2017
+BFI5,Sortation Center for Seattle Market,"20529 59th Place South, Building B, Kent, Washington, USA, 98032",318.200,,Washington,Sortation,July 2014,,King County,Kent,2014
+MKES,Sortation Center for Milwaukee Market 500 people employed,"11211 Burlington Road, Kenosha, Wisconsin, USA, 53144-7449","500,000",,Wisconsin,Sortation,October 2014,,Kenosha County,Kenosha,2014
